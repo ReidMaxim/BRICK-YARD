@@ -1,0 +1,24 @@
+name: Expansion recovery
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/expansion-recovery.yml'
+permissions:
+  contents: read
+jobs:
+  expand:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: python -m discovery.expand --target 1000
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: python -m discovery.sort_station
+      - run: python -m unittest discover -s tests -v
+      - uses: actions/upload-artifact@v4
+        with:
+          name: expansion-recovery
+          path: |
+            inventory/
+            docs/warehouse.json
