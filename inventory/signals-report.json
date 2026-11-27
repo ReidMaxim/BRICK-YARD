@@ -1,0 +1,21 @@
+{
+  "sources": {
+    "csv": 204,
+    "rss": 50
+  },
+  "errors": [],
+  "csv_columns": [
+    "published_at",
+    "provider",
+    "post_url",
+    "repo_slug",
+    "repo_url",
+    "repo_stars",
+    "repo_keywords",
+    "caption",
+    "likes",
+    "plays",
+    "comments"
+  ],
+  "unique": 204
+}

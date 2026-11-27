@@ -1,0 +1,4331 @@
+[
+  {
+    "repo": "0x1A6C1A9Y/focus-clock",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": null,
+    "description": "Un minuteur web minimal pour se concentrer, faire une pause et avancer une chose à la fois.",
+    "language": "HTML",
+    "archived": false,
+    "pushed_at": "2026-11-26T13:57:06Z",
+    "stars": 398,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "0xSero/storyboard-to-video-system",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "media"
+    ],
+    "license": null,
+    "description": "Story spec -> consistent Codex stills -> MiniMax H3 first/last-frame clips -> stitched silent videos. Agent SKILL.md included.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-24T07:11:09Z",
+    "stars": 55,
+    "relevance": 20,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "1113800942/comfy-h3md-director",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "animation",
+      "media"
+    ],
+    "license": "AGPL-3.0",
+    "description": "ComfyUI nodes for long MiniMax H3 video: 2+ minutes at 1080p in one run, seamless long takes with Chained Context Windows (CCW), multi-shot Director, motion copy, redraw just a few seconds, no long-video color drift.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-27T01:42:39Z",
+    "stars": 60,
+    "relevance": 25,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "1337isnot1337/solved-conjectures",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "math drop, curated by myself and 6.2-astra",
+    "language": "Lean",
+    "archived": false,
+    "pushed_at": "2026-11-27T02:03:14Z",
+    "stars": 174,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "5235aa-web/Pebble_companionchat",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "A lightweight, locally-focused, and customizable chat impersonation application",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T15:50:33Z",
+    "stars": 104,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "a1024053774/EnCopy",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": "macOS 剪贴板历史：复制过的东西挂在屏幕顶部的一根绳上，按 ⌥C 挑一件，⏎ 贴回正在打字的地方。Clipboard history for macOS, hung on a line at the top of your screen.",
+    "language": "Swift",
+    "archived": false,
+    "pushed_at": "2026-11-26T17:04:21Z",
+    "stars": 54,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "aarush-io/melo",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "audio-dsp",
+      "media"
+    ],
+    "license": "GPL-3.0",
+    "description": "A minimal Android music player for Spotify, YouTube Music, and local audio.",
+    "language": "Kotlin",
+    "archived": false,
+    "pushed_at": "2026-11-26T13:42:06Z",
+    "stars": 250,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "abedegno/underworld-exhumed",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Underworld Exhumed: Ultima Underworld I and II as byte-matching source code and native ports for macOS, Windows and Linux",
+    "language": "C",
+    "archived": false,
+    "pushed_at": "2026-11-23T21:56:20Z",
+    "stars": 109,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Agenty/shortener",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "AGPL-3.0",
+    "description": "An open-source URL shortener to create shorten link with Cloudflare worker and pages. Deploy on Cloudflare for custom domain for free!",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-25T11:22:43Z",
+    "stars": 107,
+    "relevance": 25,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "akshit-bansal11/edgepad",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "games"
+    ],
+    "license": "MIT",
+    "description": "Turn an Android phone into a trackpad, remote and control deck for a Windows, Mac or Linux laptop. Corner dials, keyboard, gamepad, presenter, file transfer, clipboard and stats. No account, no server, no cloud.",
+    "language": "C#",
+    "archived": false,
+    "pushed_at": "2026-11-26T11:24:20Z",
+    "stars": 67,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Akxan/ppt-agent-skill",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "animation"
+    ],
+    "license": "MIT",
+    "description": "🎨 World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear/Anthropic/Stripe/Apple/NYT — a Claude Code Skill that turns one sentence into design-agency-quality decks (HTML + editable PPTX with transitions & animations)",
+    "language": "HTML",
+    "archived": false,
+    "pushed_at": "2026-11-18T14:23:59Z",
+    "stars": 216,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "aleff-github/onion-routing-anatomy",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "networking",
+      "security"
+    ],
+    "license": "GPL-3.0",
+    "description": "Onion Routing Anatomy - A free, open-source technical book exploring the Tor protocol byte by byte, with 20 reproducible laboratories on a private Tor network. Italian original, multilingual editions, GPL-3.0-or-later.",
+    "language": "TeX",
+    "archived": false,
+    "pushed_at": "2026-11-22T18:58:05Z",
+    "stars": 109,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "alesha-pro/llm.asm",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+    "language": "Assembly",
+    "archived": false,
+    "pushed_at": "2026-11-25T15:42:44Z",
+    "stars": 1573,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "alexturkey/VideoTurko",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media"
+    ],
+    "license": "MIT",
+    "description": "MiniMax H3 on a 4 GB GTX 1050 Ti: stable-diffusion.cpp memory patches, up to 209 frames (8.7 s) in one pass",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T23:02:27Z",
+    "stars": 242,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "alizahidraja/isnad",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "Apache-2.0",
+    "description": "Grade every agent, scraper and model in a claim's chain — provenance, trust scoring and audit evidence for LLM pipelines",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-10-27T12:02:15Z",
+    "stars": 54,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "amd/skills",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Official AMD catalog of AI agent skills. Empower your AI agents with AMD's optimized SW stack.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T06:34:45Z",
+    "stars": 515,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "andreabuttarelli/feega",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "Click any element in your running app, edit it visually, and Feega writes the change to your code. Free and open source.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T17:34:38Z",
+    "stars": 54,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "AndrewDryga/coop",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "networking",
+      "security"
+    ],
+    "license": "MIT",
+    "description": "Leverage full potential of coding agents without the risks. Run them in a sandbox with restricted networking, file access and secrets hidden. By Protectorate.",
+    "language": "Go",
+    "archived": false,
+    "pushed_at": "2026-11-25T19:51:19Z",
+    "stars": 101,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "android2linux/android2linux",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Turn an Android phone into a Linux pocket computer you control: guides, an agent skill, phone notes, scripts and apps for postmarketOS and Ubuntu Touch.",
+    "language": "Shell",
+    "archived": false,
+    "pushed_at": "2026-11-25T12:32:24Z",
+    "stars": 100,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "anhermon/awesome-agent-observability",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "CC0-1.0",
+    "description": "Curated list of LLM and AI agent observability and evaluation tools: tracing, evals, LLM-as-judge, guardrails, OpenTelemetry GenAI, MCP.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-19T14:02:10Z",
+    "stars": 66,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "AnthonyPAlicea/skills",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Skills for Devs Who Want to Understand",
+    "language": null,
+    "archived": false,
+    "pushed_at": "2026-07-06T17:17:13Z",
+    "stars": 100,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "arthurzengg/opencui",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "MIT",
+    "description": "AI coding chat sidebar for VS Code.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-25T17:42:29Z",
+    "stars": 64,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "arvindrk/extract-design-system",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "design",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Extract design tokens (colors, typography, spacing, border radius, shadows) from any public website. Generates JSON and CSS custom properties for local projects. Available as an AI agent skill (Claude, Cursor, Codex) and standalone CLI.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-09-05T00:23:05Z",
+    "stars": 321,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0010",
+    "name": "FastNoise2",
+    "repo": "Auburn/FastNoise2",
+    "category": "terrain",
+    "input": "seed",
+    "output": "noise",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "terrain"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "automl/TempoPFN",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "TempoPFN: Zero-shot Time Series Forecasting (accepted at NeurIPS 2026) ",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2025-11-10T10:08:52Z",
+    "stars": 59,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "avatarmanz/VIctory-7900XTX",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "animation",
+      "games"
+    ],
+    "license": "GPL-3.0",
+    "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T01:11:22Z",
+    "stars": 1849,
+    "relevance": 25,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "AyaanZaveri/navigator",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "GPL-3.0",
+    "description": "A fairly polished Stremio client with an assistant built in",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-27T01:13:07Z",
+    "stars": 263,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "aykhanium/MacBox",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "games"
+    ],
+    "license": "GPL-2.0",
+    "description": "Experimental Apple Silicon (ARM macOS) compatibility layer for XCL using CrossOver, Rosetta 2 and D3DMetal. Native ARM64 runtime is not implemented; retail gameplay is unverified.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-25T13:18:08Z",
+    "stars": 195,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "be2rlab/ACCORD",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "Foundation Dense Metric Mapping from one camera and one IMU",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T06:31:05Z",
+    "stars": 83,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "Belobug/VIctory-Belobug-AMD",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": null,
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-26T22:30:21Z",
+    "stars": 3065,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "BotHarness/DeepSeekBot",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T23:17:42Z",
+    "stars": 1070,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "boykopovar/AnyBox",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-2.0",
+    "description": "Compatibility layer for Xbox Series apps on Windows",
+    "language": "C++",
+    "archived": true,
+    "pushed_at": "2026-11-25T16:30:47Z",
+    "stars": 382,
+    "relevance": -25,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "Brandon-Collins7/sketchvlm",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": null,
+    "description": null,
+    "language": "Jupyter Notebook",
+    "archived": false,
+    "pushed_at": "2026-09-17T04:28:24Z",
+    "stars": 180,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "brcly/TuxBox",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "games"
+    ],
+    "license": "Apache-2.0",
+    "description": "TuxBox is a new, native-first compatibility layer for running unpacked, decrypted Xbox Series X|S games on x86-64 Linux and Windows.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T01:54:42Z",
+    "stars": 391,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "BrOrlandi/miscale-dashboard",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Self-hosted live dashboard for the Xiaomi Mi Body Composition Scale 2 over Bluetooth Low Energy: profiles, body composition, history",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-10-13T03:20:06Z",
+    "stars": 64,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "CachyOS/cachyos-recovery",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "CachyOS Recovery image",
+    "language": "Shell",
+    "archived": false,
+    "pushed_at": "2026-11-25T20:58:56Z",
+    "stars": 62,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "CardputerZero/Template",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "The template project for CardputerZero",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-10-12T07:53:39Z",
+    "stars": 56,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "cdknorow/coral",
+    "sources": [
+      "csv"
+    ],
+    "stage": "discovered",
+    "level": 0,
+    "tags": [],
+    "license": null
+  },
+  {
+    "repo": "charlesdove977/claude-x-jev",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Fast, cheap, typed decisions for Claude Code. Jev (TypeSafe's decision model on OpenRouter) sorts, checks, scores, gates and verifies at 0.3s and a fraction of a cent per item. Claude keeps the reading, writing and judgment.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-10-23T16:45:07Z",
+    "stars": 104,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "ChatAndBuild/conjectures",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "Tracking superproject for the Lean RH/GRH conjecture formalisations",
+    "language": "TeX",
+    "archived": false,
+    "pushed_at": "2026-11-25T15:14:20Z",
+    "stars": 334,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "chenyizhi123/Zeta0",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "ζ₀ (Zeta0): World Action Models with Joint Scene & Body Foresight — Unitree G1 + SONIC + BrainCo capture, Ψ₀ / GR00T N1.7 training, RTC deploy & 3D-printable wrist mounts",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-24T03:15:19Z",
+    "stars": 78,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "ChetasLua/noroi-iwai",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": null,
+    "description": "A 114-second anime fan film drawn, animated, scored and sung entirely in code (Python picture, zero-dependency JavaScript sound)",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-24T20:10:43Z",
+    "stars": 125,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "ChetasLua/the-tea-ride",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": null,
+    "description": "The Tea Ride: an 81.6 s film in one HTML file where one score drives both the synth and the picture. Pure three.js, every mesh, texture and note is code, zero assets.",
+    "language": "HTML",
+    "archived": false,
+    "pushed_at": "2026-11-24T15:15:26Z",
+    "stars": 128,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "CHSZLab/AgenticAlgorithmEngineering",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Agents that optimize code like an algorithm engineer: falsifiable hypotheses, benchmarks, verified patches, PDF report",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T17:01:10Z",
+    "stars": 147,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Clockoli/clockoli",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "GPL-3.0",
+    "description": "The Git-native time tracker for teams. Free forever, open-source, serverless. Your GitHub repo is your database. No subscriptions, no seat limits, no vendor lock-in.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T13:59:37Z",
+    "stars": 307,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "collbroGTR/comfyui-scail2-infinity",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media"
+    ],
+    "license": "GPL-3.0",
+    "description": "A single all-in-one ComfyUI node — **SCAIL-2 Infinity (auto window)** — that turns the core `WanSCAILToVideo` chunked workflow into one node that generates **arbitrarily long** SCAIL-2 video automatically.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-06-16T16:57:34Z",
+    "stars": 50,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "Computershik73/megler-w10m",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "GPL-3.0",
+    "description": "Megler: Android apps on Windows 10 Mobile - native ARM code, Google Play, Chromium WebView and drawing on the GPU. Not an emulator.",
+    "language": "Java",
+    "archived": false,
+    "pushed_at": "2026-11-22T15:27:55Z",
+    "stars": 92,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0015",
+    "name": "The Forge",
+    "repo": "ConfettiFX/The-Forge",
+    "category": "rendering",
+    "input": "graphics code",
+    "output": "rendered scene",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "rendering"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "crypt0p3g/pass-the-device",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Pass-the-Device (CODE BLUE 2026): slides (EN/JA), recon tools and experimental Sigma/KQL detections for VPN/SASE device trust after endpoint compromise.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-16T08:22:07Z",
+    "stars": 60,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "CybeDefend/cybedefend",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "security",
+      "web"
+    ],
+    "license": "AGPL-3.0",
+    "description": "Agentic ASPM, the open source Snyk alternative. A full security audit in one command",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-25T23:57:00Z",
+    "stars": 94,
+    "relevance": 35,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "DanWahlin/agent-buddy",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "embedded",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "An agent buddy that can run on an ESP32 device or on your desktop!",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-05T00:37:28Z",
+    "stars": 75,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "datadog-labs/ephyra",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "A property-based testing library for the LLM era",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-26T20:58:11Z",
+    "stars": 378,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "davidtemkin/declarelang",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "MIT",
+    "description": "The UI language for you and your AI",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T04:23:58Z",
+    "stars": 121,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Devesh-Shirsath/spotkit",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "design"
+    ],
+    "license": "MIT",
+    "description": "Spotkit — a Claude Code skill that turns a feature description into minimal, abstract SVG product illustrations that all belong to one design system.",
+    "language": "HTML",
+    "archived": false,
+    "pushed_at": "2026-10-08T10:51:44Z",
+    "stars": 137,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "dgreenheck/threejs-fire-pro",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "MIT",
+    "description": null,
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-10-06T20:18:02Z",
+    "stars": 89,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "dhanababum/mcpskills-cli",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Generate Agent Skills from MCP server tools. Connects via Streamable HTTP, discovers tools, and outputs a skill with schema docs and a call script in the language of your choice.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-02-15T17:14:26Z",
+    "stars": 56,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "DoubleGhosty/cool_fox",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T00:10:18Z",
+    "stars": 694,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "DravenALG/Embo-Harness",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": "Official implementation of Embo-Harness.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-24T07:13:51Z",
+    "stars": 70,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "dtechterminal/s23-ultra-tweaks",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-2.0",
+    "description": "S24 features on a rooted Galaxy S23 Ultra (One UI 9): AirDrop, Wi-Fi 7 MLO, 6 GHz hotspot, battery health, call recording. Runtime only, no flashing.",
+    "language": "Shell",
+    "archived": false,
+    "pushed_at": "2026-11-26T21:53:49Z",
+    "stars": 67,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "dtnewman/burn-baby-burn",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Be the most productive engineer on your team 🚀🚀🚀",
+    "language": "Shell",
+    "archived": false,
+    "pushed_at": "2026-06-09T16:53:41Z",
+    "stars": 918,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "dwim-sh/dwim",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "dwim is a coding agent you control. Local by default, cloud on demand.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-26T17:37:42Z",
+    "stars": 52,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0012",
+    "name": "Effekseer",
+    "repo": "effekseer/Effekseer",
+    "category": "effects",
+    "input": "effect design",
+    "output": "particles",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "effects"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "Einsia/RoboUniverse-10K",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "Evaluation code for RoboUniverse-10K",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T12:41:52Z",
+    "stars": 83,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "EL4CTEO/shrink-anything",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-25T16:00:02Z",
+    "stars": 340,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "enwove/flyx",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-11-27T01:55:30Z",
+    "stars": 68,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "es-ine/mcp",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "EUPL-1.2",
+    "description": "MCP server connecting AI assistants to the Spanish National Statistics Institute (INE) public API. Enables access to official demographic, economic and social statistics, making it easy to search, retrieve and analyze reliable data using natural language.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T08:29:03Z",
+    "stars": 157,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "f1y1113/lcvn",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "discovered",
+    "level": 0,
+    "tags": [],
+    "license": null
+  },
+  {
+    "repo": "ferretgeek/prokbot-plus",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "NOASSERTION",
+    "description": "在自己的服务器上运行 Grok Bot，用自己选的模型；支持 Windows、Android、网页版等客户端（非官方）。Self-host Grok Bot with the models you choose (unofficial).",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T19:22:29Z",
+    "stars": 154,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "firebase/agent-skills",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "Agent Skills for Firebase",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-09T18:52:44Z",
+    "stars": 531,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "firewalker06/tycho",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Its Factorio for coding agents",
+    "language": "Ruby",
+    "archived": false,
+    "pushed_at": "2026-11-27T01:39:22Z",
+    "stars": 55,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "FPNDev/wpods",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "A free, open-source app that brings your AirPods' features to Windows 10 and 11.",
+    "language": "C#",
+    "archived": false,
+    "pushed_at": "2026-11-23T19:54:17Z",
+    "stars": 157,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "frankxai/awesome-motion-design-agent-skills",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "animation",
+      "media",
+      "web"
+    ],
+    "license": "CC0-1.0",
+    "description": "Curated motion design agent skills: GSAP, Motion, Remotion, Lottie and Rive for web animation, programmatic video and motion QA. Installable in Claude Code, Codex, Copilot.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-20T13:12:39Z",
+    "stars": 177,
+    "relevance": 45,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "fudan-generative-vision/Remory",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Remory: Learning Residual Memory for Context Compaction",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-25T07:27:18Z",
+    "stars": 825,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "fuyi25/MiniMax-H3-Tiny",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "audio-dsp",
+      "media"
+    ],
+    "license": "Apache-2.0",
+    "description": "H3-Tiny: pruned MiniMax-H3 (33B → 17B → 14B) for video + audio generation, with ComfyUI support",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-24T11:51:25Z",
+    "stars": 71,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "fxceless/victory-fork",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "games",
+      "media"
+    ],
+    "license": "GPL-3.0",
+    "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:28:09Z",
+    "stars": 3295,
+    "relevance": 25,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "fxceless/victory-gta6",
+    "sources": [
+      "csv"
+    ],
+    "stage": "discovered",
+    "level": 0,
+    "tags": [],
+    "license": null
+  },
+  {
+    "repo": "getpaseo/paseo-relay",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "networking"
+    ],
+    "license": "Apache-2.0",
+    "description": "A distributed, protocol-compatible relay for Paseo",
+    "language": "Elixir",
+    "archived": false,
+    "pushed_at": "2026-11-25T08:56:35Z",
+    "stars": 153,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "GitFrog1111/OpenWhip",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": null,
+    "description": null,
+    "language": "HTML",
+    "archived": false,
+    "pushed_at": "2026-05-27T06:35:17Z",
+    "stars": 3855,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "Godcreatebugs/raytrace-cli",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "networking",
+      "security",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Sandbox to create a local isolation for agentic run. \"Eye of Sauron\" for agents, observe everything from file access to network calls with rayTrace sandbox",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T19:48:29Z",
+    "stars": 112,
+    "relevance": 35,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0003",
+    "name": "Reference to Game",
+    "repo": "gokayfem/reference-to-game",
+    "category": "agent skills",
+    "input": "reference",
+    "output": "game prototype",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "agent skills"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "GoogleChromeLabs/view-transitions-mock",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "A non-visual polyfill for Same-Document View Transitions",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T17:16:45Z",
+    "stars": 70,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "grapedjuice/ytm-rs",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "Fast, native YouTube Music desktop app for Windows, macOS and Linux, built in Rust. No Electron, synced karaoke lyrics, 30 themes.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T00:10:27Z",
+    "stars": 893,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "gserect-gif/cutout-app",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Free, open-source AI background remover. Offline, private, and available for Windows, macOS, and Linux.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-14T08:46:03Z",
+    "stars": 176,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0014",
+    "name": "ozz-animation",
+    "repo": "guillaumeblanc/ozz-animation",
+    "category": "animation",
+    "input": "skeleton",
+    "output": "animation",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "animation"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "HacanAle/Kestryl",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": null,
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-25T05:44:14Z",
+    "stars": 101,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "hanxiao/embedding-compatibility-adapters",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "Bridge incompatible embedding spaces with a single SVD. When your embedding provider deprecates a model, adapt instead of re-embedding.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T05:05:23Z",
+    "stars": 66,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "HaoranZhuExplorer/AD-E2E-JEPA",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-10-24T03:14:14Z",
+    "stars": 82,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "hatchet-dev/brickie",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "security"
+    ],
+    "license": "MIT",
+    "description": "Run durable sandboxes in your own cloud / k8s cluster",
+    "language": "Go",
+    "archived": false,
+    "pushed_at": "2026-11-24T16:37:36Z",
+    "stars": 134,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "hehehai/AudioSmith",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "audio-dsp",
+      "media"
+    ],
+    "license": "AGPL-3.0",
+    "description": "Speech, voices, stories, audiobooks, dubbing and transcription, made on your Mac. Free and open source.",
+    "language": "Go",
+    "archived": false,
+    "pushed_at": "2026-11-23T18:32:27Z",
+    "stars": 264,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "huggingface/legion",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": null,
+    "description": null,
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T20:22:03Z",
+    "stars": 83,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "hustvl/MoLT",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": null,
+    "description": "Mixture-of-Loops Transformer",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-25T20:26:57Z",
+    "stars": 71,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "hyqzz/Solar-Wanderer",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Solar Wanderer / 遨游太阳系 - 1:1 Real-Time Solar System Explorer in the Browser. NASA JPL ephemeris, WebGL2, Three.js. From solar surface to 100,000 AU Oort Cloud.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-13T19:44:15Z",
+    "stars": 780,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "InferMatrixLab/vllm-rlt",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "Apache-2.0",
+    "description": "A vLLM-inspired inference engine for looped transformers, with loop-level scheduling and execution across composable stages.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-27T00:53:18Z",
+    "stars": 237,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "InfrathonX/Infrathon",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": null,
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-24T19:10:40Z",
+    "stars": 54,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "inmusic-software/mpc-remote-screen",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": "MPC remote screen viewer app (developer tool)",
+    "language": null,
+    "archived": false,
+    "pushed_at": "2026-11-03T12:21:15Z",
+    "stars": 53,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "invergent-ai/surogate",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "Apache-2.0",
+    "description": "Train and serve LLMs at extreme speed and massive throughput.",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-11-26T18:35:21Z",
+    "stars": 896,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "invinceble55-wq/Estacado-The-Darkness-Recomp",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "fabrication",
+      "games"
+    ],
+    "license": "MIT",
+    "description": "Estacado: a native PC recompilation of The Darkness (Xbox 360). Unofficial fan port; bring your own copy of the game.",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-11-06T23:33:30Z",
+    "stars": 161,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "inworld-ai/sava",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "SAVA, semantic acoustic voice activity: streaming voice activity and end-of-turn detection in one model.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-18T07:55:18Z",
+    "stars": 64,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "iximiuz/pathviz",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "networking"
+    ],
+    "license": "MIT",
+    "description": "A small packet path visualizer for Linux.",
+    "language": "Go",
+    "archived": false,
+    "pushed_at": "2026-11-26T17:16:30Z",
+    "stars": 104,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "JamesIV4/sim-copter-remake",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "games"
+    ],
+    "license": null,
+    "description": "A ground-up remake of Maxis’s 1996 classic SimCopter, rebuilt in Unreal Engine 5 for modern PCs. Fly original and custom SimCity 2000 cities with restored missions, helicopters, radio, and gameplay, plus modern visuals and controls.",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-09-09T02:00:58Z",
+    "stars": 73,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "jdirr/morphoGen",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "Morphological modelling and generation of virtual microstructures for RVE studies",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-27T00:06:04Z",
+    "stars": 72,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "jimjamzola/RH-Alpoge-Reconstruction",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "CC-BY-4.0",
+    "description": "An attempt to make the proof of the Riemann hypothesis human readable",
+    "language": "TeX",
+    "archived": false,
+    "pushed_at": "2026-11-26T19:43:25Z",
+    "stars": 179,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "jlcjak/neurband",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "fabrication",
+      "science"
+    ],
+    "license": null,
+    "description": "Open, minimal sEMG wristband like the Meta Neural Band: 8-ch ADS1298 + nRF52832 BLE, dry gold electrodes on a flex, 3D-printed band. KiCad, FreeCAD, Zephyr, Python, simulations.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T17:29:52Z",
+    "stars": 109,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "joshwcomeau/button-sounds",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "MIT",
+    "description": null,
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-24T21:54:36Z",
+    "stars": 442,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0007",
+    "name": "Jolt Physics",
+    "repo": "jrouwe/JoltPhysics",
+    "category": "physics",
+    "input": "collision shapes",
+    "output": "physics state",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "physics"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "kandinskylab/kandinsky-6-sr",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "discovered",
+    "level": 0,
+    "tags": [],
+    "license": null
+  },
+  {
+    "repo": "kandinskylab/kandinsky-video-sr",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media"
+    ],
+    "license": "MIT",
+    "description": "Kandinsky 6.0 Video SR: Models for Video Super-Resolution",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-25T17:19:23Z",
+    "stars": 65,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "kevintngo/cinderwatch",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": null,
+    "language": "HTML",
+    "archived": false,
+    "pushed_at": "2026-11-24T15:20:31Z",
+    "stars": 228,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "knadh/oat",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz.",
+    "language": "CSS",
+    "archived": false,
+    "pushed_at": "2026-11-01T11:40:16Z",
+    "stars": 5669,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "kyutai-labs/aura",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media"
+    ],
+    "license": "NOASSERTION",
+    "description": "AURA is a 1.3B speech-to-video generative model that runs in real time on a single H100 GPU at 576px resolution.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-23T15:59:29Z",
+    "stars": 57,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "langchain-samples/Persistent-Agent",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of tools, and proactive playbooks it can run in the background to take work off your plate. Built on Managed Deep Agents (MDA).",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-25T18:01:24Z",
+    "stars": 155,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "lattice-writer/lattice",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "Apache-2.0",
+    "description": "A local-first, agent-first LaTeX writing app for macOS: live PDF, annotations, papers and Overleaf sync",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:29:58Z",
+    "stars": 570,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "ldjx7/multi-agent-account-manager",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "Apache-2.0",
+    "description": null,
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T02:12:56Z",
+    "stars": 337,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "letitbk/claude-academic-setup",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "fabrication",
+      "science"
+    ],
+    "license": "MIT",
+    "description": "Beginner setup for academic researchers using Claude Code and Codex: core skills, safe settings, cross-model review, and a guide to working across many projects.",
+    "language": "Shell",
+    "archived": false,
+    "pushed_at": "2026-11-25T18:20:31Z",
+    "stars": 154,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "lijinzhao30/ALIVE",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media"
+    ],
+    "license": "Apache-2.0",
+    "description": "ALIVE: Making Streaming Video Models Interactive",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-21T05:59:55Z",
+    "stars": 87,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "lllyasviel/VCC",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "Apache-2.0",
+    "description": "Compile agent conversations!",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-05-03T01:12:26Z",
+    "stars": 449,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "lmy414/ai-chan-sheets",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": "基于 ZipZipPipe（胖次狐）AI 娘立绘的横版完整设定图补全：拆解为三视图/表情/服装/道具独立素材，推定补全侧背面，原生像素 1:1 拼接。CC BY-NC-SA 4.0 非商业。",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T08:47:55Z",
+    "stars": 758,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "loktar00/sprite-stack-engine",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "A sprite-stacking renderer in plain WebGL2: free camera, deferred lighting, hidden-surface removal, and overdraw that is measured, not guessed.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-23T07:34:32Z",
+    "stars": 69,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Loongphy/codex-auth",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "A CLI tool to switch and manage Codex accounts",
+    "language": "Zig",
+    "archived": false,
+    "pushed_at": "2026-11-18T13:55:09Z",
+    "stars": 2886,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "LooperSalty/AnyXboxX",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "AnyXboxX — prototype d'émulateur Xbox Series X (HLE du GDK sur Unicorn)",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T02:51:06Z",
+    "stars": 451,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "lucas-pospor/cairn",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Local-first Markdown notes for Linux, Windows and Android. Plain .md folders, optional end-to-end encrypted sync to a server you run yourself.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-10-25T22:56:03Z",
+    "stars": 55,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "LuoJiangYong/muse-video-skill",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "media"
+    ],
+    "license": "MIT",
+    "description": "视频创作虚拟剧组引擎 — 创意 → 剧本/分镜/美术/提示词 → 模型调用指令；38 案例技法库 × 六角色协作（导演/编剧/摄影/美术/特效/声音）× 全流程质量门，产出直连下游视频模型，适配任何 AI Agent｜Virtual film-crew engine for video creation — idea → script, storyboard, art direction, prompts → model-ready calls. 38-case library × 6-role crew (director/writer/DP/art dir./VFX/sound) × review gates; downstream-ready output for any agent.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-09-30T14:53:15Z",
+    "stars": 215,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "luruke/browser-2027",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": null,
+    "description": "Things you can do with a browser in 2027 ☕️",
+    "language": null,
+    "archived": false,
+    "pushed_at": "2026-11-24T10:32:22Z",
+    "stars": 120,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "masonmosen/muse-video-prompt-skill",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media"
+    ],
+    "license": "MIT",
+    "description": "Prompt engineering workflow skill for Muse built-in video generation (Muse Video): six-part prompt templates → generation → multi-segment stitching → frame verification. Muse 内置视频提示词实战：写提示词 → 生成 → 拼长片 → 抽帧验证。",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-05T08:30:27Z",
+    "stars": 338,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0004",
+    "name": "Animation Handbook",
+    "repo": "matinmonshizadeh/animation-handbook",
+    "category": "web",
+    "input": "UI",
+    "output": "motion effects",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "web"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "matlab/matlab-agentic-toolkit",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "science"
+    ],
+    "license": "NOASSERTION",
+    "description": "The MATLAB Agentic Toolkit brings proven MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.",
+    "language": "MATLAB",
+    "archived": false,
+    "pushed_at": "2026-11-25T17:11:47Z",
+    "stars": 1347,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "matlab/simulink-agentic-toolkit",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "NOASSERTION",
+    "description": "The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.",
+    "language": "HTML",
+    "archived": false,
+    "pushed_at": "2026-11-25T17:08:12Z",
+    "stars": 1399,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "mattpocock/cookout",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": null,
+    "description": null,
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T19:12:28Z",
+    "stars": 333,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "maximilianfeix/proxy-scraper",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Free HTTP/SOCKS proxy list, rebuilt every hour, with the result of every check on record. CLI, Python API, rotating proxy server, MCP server.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:31:57Z",
+    "stars": 104,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "microsoft/microsoft-sql",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "NOASSERTION",
+    "description": "Microsoft SQL installable agent plugins for Azure SQL development, operations, local containers, migrations, and Fabric Database Hub workflows. The plugins package focused guidance for supported coding agents and development environments.",
+    "language": "PowerShell",
+    "archived": false,
+    "pushed_at": "2026-11-17T18:06:12Z",
+    "stars": 61,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "MiladJoodi/Git-GPT",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": null,
+    "description": "Find and unfollow GitHub users who don’t follow you back.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-09-28T00:07:29Z",
+    "stars": 84,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "mnemoverse/awesome-agent-memory",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "science"
+    ],
+    "license": "CC0-1.0",
+    "description": "A curated list of memory systems, frameworks, benchmarks, and research for AI agents.",
+    "language": null,
+    "archived": false,
+    "pushed_at": "2026-11-26T12:59:18Z",
+    "stars": 68,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Moddingflow/better-design",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "animation",
+      "design",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "UI/UX and frontend design skill for AI coding agents: Codex, Claude Code, Cursor. Art direction, DESIGN.md, design tokens, motion, accessibility, and real interface validation.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-10-27T11:02:09Z",
+    "stars": 85,
+    "relevance": 35,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Moh4696/inkworks-skill",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-25T13:53:35Z",
+    "stars": 475,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "motionvideohq/motionvideo.xyz",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "animation",
+      "design",
+      "media",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "A directory of AI-powered motion videos, prompts, and skills that teach coding agents motion design/graphics",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T13:06:29Z",
+    "stars": 164,
+    "relevance": 45,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "moylali/OTGMaster",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "Android app to open encrypted USB mass-storage devices for read/write without root. Supports VeraCrypt, LUKS1, and LUKS2 encrypted volumes with FAT32, exFAT, and ext4 filesystems",
+    "language": "C",
+    "archived": false,
+    "pushed_at": "2026-11-26T13:32:27Z",
+    "stars": 68,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "MustafaNatur/blueprint",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Turn your app icon into a blueprint version, like Xcode's icon, for your debug builds",
+    "language": "Swift",
+    "archived": false,
+    "pushed_at": "2026-11-04T16:42:47Z",
+    "stars": 162,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "myylogic/cevahir-ai",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "Cevahir Zihin: a mind that learns by living, not a Transformer. It keeps knowledge as evidence on ties, attends with a Seven-Place Focus and learns from every conversation. Also: a Turkish BPE tokenizer, a Transformer language-model core and cognitive systems.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T19:44:48Z",
+    "stars": 318,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "nemy-new/Expressive-Weather",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": "Expressive Weather Android App built with Jetpack Compose & Material 3",
+    "language": "Kotlin",
+    "archived": false,
+    "pushed_at": "2026-11-26T07:47:32Z",
+    "stars": 81,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "nexu-io/opengame",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "games",
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:52:43Z",
+    "stars": 1356,
+    "relevance": 35,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "nickvido/us-code",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": null,
+    "description": "United States Code as a Git repository — check the commit history, view diffs. Data starts in 2013.",
+    "language": null,
+    "archived": false,
+    "pushed_at": "2026-04-02T23:25:18Z",
+    "stars": 376,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "NUS-HPC-AI-Lab/LoopRes",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Official implementation of: Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-27T02:54:59Z",
+    "stars": 84,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "OfinTech/ofinTech-Dask",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "OfinTech Desk reads your ledger, spreadsheets, documents and inbox, does the arithmetic in code, fills in your own Excel and Word files with sources for every figure, and asks a person before it sends or changes anything. Bring any model: a cloud provider with your own key, or a local model.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T05:05:56Z",
+    "stars": 71,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "OnurGumus/zero-csharp",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": null,
+    "language": "C#",
+    "archived": false,
+    "pushed_at": "2026-11-27T01:28:51Z",
+    "stars": 116,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "open-geocode-rs/open-geocode",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "Fast, lightweight, self-hosted geocoding engine in pure Rust. ",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:53:53Z",
+    "stars": 102,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "open-guji/luatex-cn",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "基于LuaTeX的中文排版宏包，支持古籍版式精确复刻，以及符合W3C《中文排版需求》的现代中文排版",
+    "language": "Lua",
+    "archived": false,
+    "pushed_at": "2026-11-26T08:45:25Z",
+    "stars": 140,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "OpenMinis/OpenMinis",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "GPL-3.0",
+    "description": "OpenMinis — The AI Agent app across platforms. Fully free and open source.",
+    "language": "Swift",
+    "archived": false,
+    "pushed_at": "2026-11-26T05:10:16Z",
+    "stars": 6162,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "OpenSenseNova/SenseNova-RoboRSI",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "Apache-2.0",
+    "description": "A unified framework for building, evaluating, and recursively improving embodied agents. 🚀 ",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-27T04:11:30Z",
+    "stars": 1096,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "opensetlabs/openset-llm",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:06:18Z",
+    "stars": 1833,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "ozguradmin/ahenk-turkish-tts",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media"
+    ],
+    "license": "Apache-2.0",
+    "description": "Ahenk: açık Türkçe metinden sese. Open Turkish text-to-speech: VoxCPM2 LoRA (Ahenk), 8.6M on-device model (Ahenk Cep), trnorm text normaliser, TR-Zor benchmark",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-16T18:14:55Z",
+    "stars": 113,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "petergyang/video-explainer",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "animation",
+      "media"
+    ],
+    "license": "MIT",
+    "description": "Turn any topic, doc, codebase, or URL into a crisp 1-minute explainer video in Motion, Illustrated, or 3D style",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-25T18:00:55Z",
+    "stars": 525,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "phil-haderer/pxc",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "Generative AI for PhotoCraft: text to image, expand, fill, remove, edit and upscale with local AI models through ComfyUI. Results arrive as new layers. Windows and Linux (tested on Linux Mint).",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T21:18:55Z",
+    "stars": 74,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "plannotator/talkto",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "Message boards for AI agents. For your distributed agents, or invite your team's agents.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T18:59:22Z",
+    "stars": 121,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "plastic-labs/opencode-honcho",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "MIT",
+    "description": null,
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-11T23:17:21Z",
+    "stars": 63,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "professorpalmer/bonsai-ada-surgery",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": "Bonsai 2 27B: 262k context (trained max) on 12 GB, 54 to 97 tok/s decode, 2x prefill, q8_0 KV recipe, grammar tool calls 9/9. Same ternary weights. Windows bundle + receipts.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-23T09:23:54Z",
+    "stars": 104,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "ProfRino/Blender-MCP-Assembly-Skill",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media"
+    ],
+    "license": null,
+    "description": "Blender Assembly is a geometry-building skill for creating reliable 3D models in Blender via MCP. It helps prevent common modelling errors by planning object connections, using correct primitive scaling, avoiding faulty cylinder rotations, verifying overlaps, and auditing final transforms.",
+    "language": null,
+    "archived": false,
+    "pushed_at": "2026-05-25T23:20:01Z",
+    "stars": 94,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "PromethenDev/wwe13-recomp",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": null,
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-11-23T08:10:48Z",
+    "stars": 134,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "pschatzmann/TinyWifiDongle",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "embedded"
+    ],
+    "license": "MIT",
+    "description": "A Header-Only C++ Arduino library that turns a Microcontroller into a USB WiFi dongle",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-10-30T13:36:57Z",
+    "stars": 61,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "puritysb/AgentDeck",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "embedded",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Local dashboards and physical controls for AI coding agents — native 3D aquariums, Stream Deck, Apple/Android apps, e-ink, ESP32 and LED displays.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-27T00:02:28Z",
+    "stars": 305,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "queen-project/queen",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "Codebase for \"Language Models that Play Chess and Explain their Moves\"",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-10-05T00:16:36Z",
+    "stars": 85,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Quiet-Crafts/unbraid",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "Split tunneling VPN client for Android: different apps, different exits, at the same time. Tailscale and your VPNs together. Bring your own VPN.",
+    "language": "Kotlin",
+    "archived": false,
+    "pushed_at": "2026-11-26T11:05:49Z",
+    "stars": 54,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "QwenLM/FlashQLA",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "high-performance linear attention kernel library built on TileLang",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-25T14:33:33Z",
+    "stars": 772,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "R44VC0RP/dashsplat",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "Turn a car's dashcam footage into a 3D world you can drive through again: Gaussian splats, a 1 cm road atlas, tracked vehicles and a diffusion-repaired chase view.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-22T21:13:32Z",
+    "stars": 349,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0009",
+    "name": "Recast Navigation",
+    "repo": "recastnavigation/recastnavigation",
+    "category": "navigation",
+    "input": "geometry",
+    "output": "navigation mesh",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "navigation"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "referodesign/refero_skill",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "science"
+    ],
+    "license": "MIT",
+    "description": "Research-first design skill for AI agents. 150K+ real app screens and flows via Refero MCP.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-25T18:21:33Z",
+    "stars": 368,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "remorses/sigillo",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": null,
+    "description": "Self-hostable secrets management platform. Open source Doppler alternative",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-25T00:05:16Z",
+    "stars": 123,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "Reukix/Reloc",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "AGPL-3.0",
+    "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+    "language": "Swift",
+    "archived": false,
+    "pushed_at": "2026-11-26T17:30:26Z",
+    "stars": 995,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "richarvey/OmniMem",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Self-hosted semantic memory for AI agents, served over MCP. Persistent sessions, experience scoring, a graveyard for dead ends and skills compiled from what worked, plus knowledge from the RSS feeds you read. One Rust binary on SQLite: a tray app for macOS, Windows and Linux, or a server.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-24T00:08:30Z",
+    "stars": 105,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Rikinshah787/dotpals",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "See what your coding agent actually did. A desktop pal and notch for Claude Code, Codex, Cursor, Gemini CLI and any agent: test results read from the output, faked passes caught, and an MCP server any AI tool can ask. New: talk to Blu, who sees your screen, draws on it as it explains and uses your apps.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T01:54:55Z",
+    "stars": 96,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "rjyo/osewa",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "Persistent remote terminals over QUIC and TLS WebSocket, built on libghostty-vt (Rust)",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-25T09:47:33Z",
+    "stars": 141,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0008",
+    "name": "Material Maker",
+    "repo": "RodZill4/material-maker",
+    "category": "assets",
+    "input": "material graph",
+    "output": "textures",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "assets"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "rufin-app/rufin",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-3.0",
+    "description": "Cross-platform native music player for local/remote libraries and music servers",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T00:22:47Z",
+    "stars": 320,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "ruyue0001/trace2env",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "Apache-2.0",
+    "description": "Agentic Language World Models",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-10-16T16:42:08Z",
+    "stars": 130,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "s8n/CivSwitchFS-kaiHEN",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "GPL-2.0",
+    "description": "Semi-untethered kaiHEN loading through civ7, thanks to CivSwitchFS",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T20:59:43Z",
+    "stars": 95,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "samber/cc-skills",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "🧑‍🎨 A collection of agentic skills that works",
+    "language": "CSS",
+    "archived": false,
+    "pushed_at": "2026-11-01T07:26:23Z",
+    "stars": 297,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "samcorcos/legatum",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": null,
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:57:14Z",
+    "stars": 214,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0005",
+    "name": "Inkline Town",
+    "repo": "SandroMaglione/inkline-town",
+    "category": "simulation",
+    "input": "simulation state",
+    "output": "town visualization",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "simulation"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "saulob/god-of-war-sons-of-sparta-pc",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-2.0",
+    "description": null,
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-11-25T21:35:31Z",
+    "stars": 77,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "scrolltide/ai-studio-skill",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "NOASSERTION",
+    "description": "Free Claude skill for websites that move when you scroll: scroll films, layered parallax, self-drawing paths. Built from the real source of Scrolltide builds and checked at scroll checkpoints on desktop and phone.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-23T15:36:44Z",
+    "stars": 109,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "sderosiaux/chrome-agent",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Web tasks that compile. Other browser tools tell your AI agent the click worked. chrome-agent reads the page back after every action and answers in JSON what actually happened. One 3 MB Rust binary, no Node, no cloud.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-10-12T02:24:32Z",
+    "stars": 100,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "seehiong/blender-mcp-bridge",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media"
+    ],
+    "license": "MIT",
+    "description": "Automate Blender 3D modeling with AI via MCP — 93 tools for modeling, sculpting, architecture/MEP, materials, and 3D-print prep. Includes Blender Studio: a visual record/replay session editor with a multi-provider AI assistant (Claude, Gemini, OpenRouter) — drive it from n8n, Claude Code, or standalone.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-09-13T07:14:50Z",
+    "stars": 103,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "SeniorMatt/kiri",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "GPL-3.0",
+    "description": "Scrollable tiling KWin script in the style of niri",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:53:06Z",
+    "stars": 131,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0001",
+    "name": "Mesh Avatar Studio",
+    "repo": "shinshin86/mesh-avatar-studio",
+    "category": "animation",
+    "input": "illustration",
+    "output": "animated avatar",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "animation"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0002",
+    "name": "RAEA",
+    "repo": "shinyobjectz/raea",
+    "category": "rendering",
+    "input": "React scene",
+    "output": "video",
+    "level": 0,
+    "license": "FSL (reported; verify)",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "rendering"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "Softwaiz/gentlemail",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Open-source multi-domain webmail, email API and webhooks on your own Cloudflare account. Unlimited mailboxes for $5/month.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-25T10:01:35Z",
+    "stars": 56,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "software-mansion/typegpu-kit",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "science",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "GPU modules on TypeGPU for lit 3D scenes, post-processing, particles, text, glTF models and simulations, on the web and React Native",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T14:51:36Z",
+    "stars": 69,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "sonlovinbot-team/Muse-animated-short-film",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media"
+    ],
+    "license": "MIT",
+    "description": "Skill làm phim hoạt hình ngắn trên Muse AI — từ ý tưởng đến MP4: nhân vật, kịch bản, keyframes, mega prompt, video, thuyết minh, dựng phim. Phim mẫu: The Last Lantern.",
+    "language": null,
+    "archived": false,
+    "pushed_at": "2026-10-31T05:45:38Z",
+    "stars": 180,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "spencernorton/armiger",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "Local ONNX torrent classifier for Bitmagnet and Rats Search, with content type and language prediction and optional metadata enrichment.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T16:57:49Z",
+    "stars": 100,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Stage-11-Agentics/c11",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "AGPL-3.0",
+    "description": "Agent-native Terminal Multiplexing for 10,000x hyperengineers ",
+    "language": "Swift",
+    "archived": false,
+    "pushed_at": "2026-11-23T14:36:34Z",
+    "stars": 56,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "stdlogits/neuron-lens",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "A catalog of every MLP neuron and attention head of Qwen3-8B and Gemma 4 12B, read from the weights through two Jacobian lenses (R and S), from activations, and from their exact token drivers",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-27T02:32:19Z",
+    "stars": 106,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "subgentic/coral",
+    "sources": [
+      "GitHub API"
+    ],
+    "description": "Coral is Built for Agentic Engineering. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work. Anything they need comes to your Inbox.",
+    "language": "Go",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:35:33Z",
+    "stars": 137,
+    "license": "Apache-2.0",
+    "tags": [
+      "agents"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "sudoingX/dgx-spark-deepseek-v41",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "Apache-2.0",
+    "description": "DeepSeek-V4.1-Flash on two NVIDIA DGX Sparks: EXL3 weights from the official checkpoint, upstream vLLM with our patches and decode kernels",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-10-22T07:17:48Z",
+    "stars": 52,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "SulphurS16/Regaliant",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "games"
+    ],
+    "license": "GPL-3.0",
+    "description": "Unofficial Windows PC port of Demon's Souls (2020), Bluepoint's PS5 remake. Runs your own copy of the PS5 game (PPSA01341, version 1.07). No game files included.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-26T13:57:57Z",
+    "stars": 466,
+    "relevance": 15,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "swarm-ai-research/swarm",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "science"
+    ],
+    "license": "MIT",
+    "description": "SWARM: System-Wide Assessment of Risk in Multi-agent systems",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T05:34:33Z",
+    "stars": 52,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "swipt-automation/Swipterm",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "NOASSERTION",
+    "description": "A Linux environment and Ghostty-based terminal for iOS.",
+    "language": "Swift",
+    "archived": false,
+    "pushed_at": "2026-11-27T01:04:48Z",
+    "stars": 181,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "Tencent-Hunyuan/Hy-MT3",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": null,
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T12:30:57Z",
+    "stars": 95,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "Tencent/WeMM-Ecom",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": "WeMM-Ecom is a family of multimodal foundation models by the WeChat Vision Team at Tencent, built for frontier E-commerce understanding and SoTA general vision-language performance.",
+    "language": "Shell",
+    "archived": false,
+    "pushed_at": "2026-11-24T16:58:31Z",
+    "stars": 72,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "TencentCloud/octop-browser",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents"
+    ],
+    "license": "MIT",
+    "description": "Agent-first lightweight browser automation — direct CDP, no Playwright, more accurate and more reliable.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-01T06:12:27Z",
+    "stars": 78,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "ThilinaTLM/nerve",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "A transparent, local-first desktop coding harness with the focus of a small agent and the workflow of a complete workbench.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T17:25:17Z",
+    "stars": 85,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "tokentimerch/tokentimer-core",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "NOASSERTION",
+    "description": "The self-hosted token, certificate, license, and secret expiration manager with automated Certificate Lifecycle Management (CertOps) for teams.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:02:27Z",
+    "stars": 69,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0006",
+    "name": "Terrain3D",
+    "repo": "TokisanGames/Terrain3D",
+    "category": "terrain",
+    "input": "height data",
+    "output": "terrain",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "terrain"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "twlatl/PixelLoupe",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "A raw photo editor and catalog for the Mac, the spiritual successor to Aperture and Lightroom. Free and open source.",
+    "language": "Swift",
+    "archived": false,
+    "pushed_at": "2026-11-24T17:39:13Z",
+    "stars": 91,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "UnbendableStraw/HomePod-Hospital",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": null,
+    "description": null,
+    "language": "Swift",
+    "archived": false,
+    "pushed_at": "2026-11-24T08:31:34Z",
+    "stars": 88,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "unstoppableweb/unstoppable-code",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Use your favorite coding agents together in a single AI IDE. Run parallel agents, automate multi-agent workflows, and get an integrated terminal, browser, and mobile app.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T23:25:37Z",
+    "stars": 83,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "useapi/muse-api",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "media"
+    ],
+    "license": "MIT",
+    "description": "Meta Muse API examples (muse.ai) and a hosted MCP server with 37 tools for Claude Code, Cursor and VS Code. Images and 10-second videos with sound on your Muse subscription, free plan included. Chat with the Muse agent, restore old photos, make a photo talk, swap a person in a video. Node.js, Python, n8n, agent skill. By useapi.net, third-party.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-26T20:39:01Z",
+    "stars": 65,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "UWMILab/LCVN",
+    "sources": [
+      "GitHub API"
+    ],
+    "description": "[NeurIPS 2026 Oral] Official implementation for \"Language-Conditioned World Modeling for Visual Navigation\"",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-24T00:03:26Z",
+    "stars": 228,
+    "license": null,
+    "tags": [
+      "games"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "Venky7514/Stalker-Search",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Local OSINT privacy scanner to find and remove your exposed personal data, documents, and contact leaks online before stalkers can find them.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-26T14:17:28Z",
+    "stars": 102,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "virtualonno/lain",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "NOASSERTION",
+    "description": "A matching decompilation of Serial Experiments Lain for PS1",
+    "language": "C",
+    "archived": false,
+    "pushed_at": "2026-11-24T14:15:37Z",
+    "stars": 197,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "wangyuchen5110/opencodeplugginprogram",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Measure the per-step token cost of agent skills. Boilerplate overlap is ignored, the plan keeps the routing sentence, and redundant skills are hidden first. CLI, OpenCode plugin, MCP, GitHub Action. Runs locally, no telemetry.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-23T11:38:54Z",
+    "stars": 69,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "workos/cli",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "NOASSERTION",
+    "description": "AI-powered CLI wizard that automatically integrates WorkOS AuthKit into your app",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-24T00:30:05Z",
+    "stars": 75,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "xalgorix/xalgorix",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "Open-source AI penetration testing agent that exploit-verifies every finding. Autonomous 22-phase pentests of web apps & APIs with CVSS-scored PDF reports. Self-hosted, bring your own LLM, or run fully local with Ollama.",
+    "language": "Go",
+    "archived": false,
+    "pushed_at": "2026-11-27T04:46:03Z",
+    "stars": 1508,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "xoxorwr/pw-loudness-eq",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": null,
+    "description": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+    "language": "C",
+    "archived": false,
+    "pushed_at": "2026-11-22T19:46:47Z",
+    "stars": 206,
+    "relevance": 0,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "yanauto/broco",
+    "sources": [
+      "GitHub API"
+    ],
+    "description": "Let your AI coding harnesses work together — Claude Code, Codex, Cursor, Antigravity, OpenCode, and Pi. Live quotas, git worktrees, blind review.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T07:02:14Z",
+    "stars": 64,
+    "license": "Apache-2.0",
+    "tags": [
+      "web"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "yanauto/opus-manager",
+    "sources": [
+      "csv"
+    ],
+    "stage": "discovered",
+    "level": 0,
+    "tags": [],
+    "license": null
+  },
+  {
+    "repo": "YazgulDev/warcraft-cs",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "audio-dsp",
+      "media"
+    ],
+    "license": "Apache-2.0",
+    "description": "Counter-Strike-style offline FPS for Warcraft III 1.26a: RoC/TFT, gold buy menu, squads, configurable weapons and CS audio",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-11-09T09:31:37Z",
+    "stars": 72,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "yebisu0529-ship-it/talk-style-live-translation",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "MIT",
+    "description": "Talk風Live翻訳 — translated by PLaMo. 英語の動画を、読みやすい日本語のトークに。Windows向けのローカルLive翻訳アプリ。",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-16T22:00:18Z",
+    "stars": 53,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "yetidevworks/drydock",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "web"
+    ],
+    "license": "MIT",
+    "description": "What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-25T18:01:02Z",
+    "stars": 372,
+    "relevance": 15,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "zadescoxp/Jev-Trades",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "Apache-2.0",
+    "description": "Trading bot with the all new TypeSafe AI's first system one model named as Jev",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-09-25T19:06:21Z",
+    "stars": 81,
+    "relevance": 5,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0013",
+    "name": "meshoptimizer",
+    "repo": "zeux/meshoptimizer",
+    "category": "assets",
+    "input": "mesh",
+    "output": "optimized mesh",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "assets"
+    ],
+    "stage": "seed",
+    "review_required": true
+  },
+  {
+    "repo": "ZigZagBoi1/ScarlettPort",
+    "sources": [
+      "csv"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "design",
+      "games"
+    ],
+    "license": "NOASSERTION",
+    "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T05:37:34Z",
+    "stars": 739,
+    "relevance": 10,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "zortos293/XSEmu",
+    "sources": [
+      "csv",
+      "rss"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [],
+    "license": "GPL-2.0",
+    "description": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T00:39:04Z",
+    "stars": 732,
+    "relevance": 5,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "id": "BRICK-0011",
+    "name": "Voxel Tools",
+    "repo": "Zylann/godot_voxel",
+    "category": "terrain",
+    "input": "voxel data",
+    "output": "terrain",
+    "level": 0,
+    "license": "unknown",
+    "source": "User TikTok screenshots",
+    "runtime": "unknown",
+    "evidence": [],
+    "compatibility": "unverified",
+    "tags": [
+      "terrain"
+    ],
+    "stage": "seed",
+    "review_required": true
+  }
+]
