@@ -1,0 +1,12 @@
+[
+  {
+    "name": "GitHub Signals",
+    "url": "https://githubsignals.io/export.csv",
+    "status": "candidate feed; format and access not verified"
+  },
+  {
+    "name": "GitHub API",
+    "url": "https://api.github.com/repos/",
+    "status": "metadata collector implemented; live run pending"
+  }
+]
