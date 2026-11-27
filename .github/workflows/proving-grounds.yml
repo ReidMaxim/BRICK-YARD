@@ -1,0 +1,20 @@
+name: Proving grounds evidence
+on:
+  pull_request:
+    paths:
+      - 'discovery/inspect_bricks.py'
+      - '.github/workflows/proving-grounds.yml'
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - run: python -m discovery.inspect_bricks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: inspection-evidence
+          path: inventory/inspection-evidence.json
