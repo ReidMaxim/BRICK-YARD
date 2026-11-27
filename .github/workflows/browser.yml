@@ -1,0 +1,22 @@
+name: Showroom browser validation
+on:
+  pull_request:
+  push:
+    branches: [mission-004-grand-opening]
+permissions:
+  contents: read
+jobs:
+  browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-save --ignore-scripts playwright@1.58.2
+      - run: npx playwright install --with-deps chromium webkit
+      - run: |
+          python3 -m http.server 8765 --directory docs > /tmp/brick-http.log 2>&1 &
+          for i in $(seq 1 20); do curl -fsS http://127.0.0.1:8765/ >/dev/null && break; sleep 1; done
+          node tests/browser.cjs
