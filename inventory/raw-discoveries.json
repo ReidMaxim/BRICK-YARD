@@ -1,0 +1,1480 @@
+[
+  {
+    "repo": "0x1a6c1a9y/focus-clock",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "0xsero/storyboard-to-video-system",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "1113800942/comfy-h3md-director",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "1337isnot1337/solved-conjectures",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "5235aa-web/pebble_companionchat",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "a1024053774/encopy",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "aarush-io/melo",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "abedegno/underworld-exhumed",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "agenty/shortener",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "akshit-bansal11/edgepad",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "akxan/ppt-agent-skill",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "aleff-github/onion-routing-anatomy",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "alesha-pro/llm.asm",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "alexturkey/videoturko",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "alizahidraja/isnad",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "amd/skills",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "andreabuttarelli/feega",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "andrewdryga/coop",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "android2linux/android2linux",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "anhermon/awesome-agent-observability",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "anthonypalicea/skills",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "arthurzengg/opencui",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "arvindrk/extract-design-system",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "automl/tempopfn",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "avatarmanz/victory-7900xtx",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "ayaanzaveri/navigator",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "aykhanium/macbox",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "be2rlab/accord",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "belobug/victory-belobug-amd",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "botharness/deepseekbot",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "boykopovar/anybox",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "Brandon-Collins7/sketchvlm",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "brcly/tuxbox",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "brorlandi/miscale-dashboard",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "cachyos/cachyos-recovery",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "cardputerzero/template",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "cdknorow/coral",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "charlesdove977/claude-x-jev",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "chatandbuild/conjectures",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "chenyizhi123/zeta0",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "chetaslua/noroi-iwai",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "chetaslua/the-tea-ride",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "chszlab/agenticalgorithmengineering",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "clockoli/clockoli",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "collbrogtr/comfyui-scail2-infinity",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "computershik73/megler-w10m",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "crypt0p3g/pass-the-device",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "cybedefend/cybedefend",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "danwahlin/agent-buddy",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "datadog-labs/ephyra",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "davidtemkin/declarelang",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "devesh-shirsath/spotkit",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "dgreenheck/threejs-fire-pro",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "dhanababum/mcpskills-cli",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "doubleghosty/cool_fox",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "dravenalg/embo-harness",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "dtechterminal/s23-ultra-tweaks",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "dtnewman/burn-baby-burn",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "dwim-sh/dwim",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "einsia/robouniverse-10k",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "el4cteo/shrink-anything",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "enwove/flyx",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "es-ine/mcp",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "f1y1113/lcvn",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "ferretgeek/prokbot-plus",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "firebase/agent-skills",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "firewalker06/tycho",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "fpndev/wpods",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "frankxai/awesome-motion-design-agent-skills",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "fudan-generative-vision/remory",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "fuyi25/minimax-h3-tiny",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "fxceless/victory-fork",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "fxceless/victory-gta6",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "getpaseo/paseo-relay",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "GitFrog1111/OpenWhip",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "godcreatebugs/raytrace-cli",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "googlechromelabs/view-transitions-mock",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "grapedjuice/ytm-rs",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "gserect-gif/cutout-app",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "hacanale/kestryl",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "hanxiao/embedding-compatibility-adapters",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "haoranzhuexplorer/ad-e2e-jepa",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "hatchet-dev/brickie",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "hehehai/audiosmith",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "huggingface/legion",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "hustvl/molt",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "hyqzz/solar-wanderer",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "infermatrixlab/vllm-rlt",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "infrathonx/infrathon",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "inmusic-software/mpc-remote-screen",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "invergent-ai/surogate",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "invinceble55-wq/estacado-the-darkness-recomp",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "inworld-ai/sava",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "iximiuz/pathviz",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "jamesiv4/sim-copter-remake",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "jdirr/morphogen",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "jimjamzola/rh-alpoge-reconstruction",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "jlcjak/neurband",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "joshwcomeau/button-sounds",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "kandinskylab/kandinsky-6-sr",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "kandinskylab/kandinsky-video-sr",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "kevintngo/cinderwatch",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "knadh/oat",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "kyutai-labs/aura",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "langchain-samples/persistent-agent",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "lattice-writer/lattice",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "ldjx7/multi-agent-account-manager",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "letitbk/claude-academic-setup",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "lijinzhao30/alive",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "lllyasviel/vcc",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "lmy414/ai-chan-sheets",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "loktar00/sprite-stack-engine",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "loongphy/codex-auth",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "loopersalty/anyxboxx",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "lucas-pospor/cairn",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "luojiangyong/muse-video-skill",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "luruke/browser-2027",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "masonmosen/muse-video-prompt-skill",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "matlab/matlab-agentic-toolkit",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "matlab/simulink-agentic-toolkit",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "mattpocock/cookout",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "maximilianfeix/proxy-scraper",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "microsoft/microsoft-sql",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "miladjoodi/git-gpt",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "mnemoverse/awesome-agent-memory",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "moddingflow/better-design",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "moh4696/inkworks-skill",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "motionvideohq/motionvideo.xyz",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "moylali/otgmaster",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "mustafanatur/blueprint",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "myylogic/cevahir-ai",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "nemy-new/expressive-weather",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "nexu-io/opengame",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "nickvido/us-code",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "nus-hpc-ai-lab/loopres",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "ofintech/ofintech-dask",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "onurgumus/zero-csharp",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "open-geocode-rs/open-geocode",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "open-guji/luatex-cn",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "openminis/openminis",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "opensensenova/sensenova-roborsi",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "opensetlabs/openset-llm",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "ozguradmin/ahenk-turkish-tts",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "petergyang/video-explainer",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "phil-haderer/pxc",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "plannotator/talkto",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "plastic-labs/opencode-honcho",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "professorpalmer/bonsai-ada-surgery",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "profrino/blender-mcp-assembly-skill",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "promethendev/wwe13-recomp",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "pschatzmann/tinywifidongle",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "puritysb/agentdeck",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "queen-project/queen",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "quiet-crafts/unbraid",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "qwenlm/flashqla",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "r44vc0rp/dashsplat",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "referodesign/refero_skill",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "remorses/sigillo",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "reukix/reloc",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "richarvey/omnimem",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "rikinshah787/dotpals",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "rjyo/osewa",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "rufin-app/rufin",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "ruyue0001/trace2env",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "s8n/civswitchfs-kaihen",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "samber/cc-skills",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "samcorcos/legatum",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "saulob/god-of-war-sons-of-sparta-pc",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "scrolltide/ai-studio-skill",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "sderosiaux/chrome-agent",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "seehiong/blender-mcp-bridge",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "seniormatt/kiri",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "softwaiz/gentlemail",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "software-mansion/typegpu-kit",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "sonlovinbot-team/muse-animated-short-film",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "spencernorton/armiger",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "stage-11-agentics/c11",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "stdlogits/neuron-lens",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "sudoingx/dgx-spark-deepseek-v41",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "sulphurs16/regaliant",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "swarm-ai-research/swarm",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "swipt-automation/swipterm",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "tencent-hunyuan/hy-mt3",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "tencent/wemm-ecom",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "tencentcloud/octop-browser",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "thilinatlm/nerve",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "tokentimerch/tokentimer-core",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "twlatl/pixelloupe",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "unbendablestraw/homepod-hospital",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "unstoppableweb/unstoppable-code",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "useapi/muse-api",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "venky7514/stalker-search",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "virtualonno/lain",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "wangyuchen5110/opencodeplugginprogram",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "workos/cli",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  },
+  {
+    "repo": "xalgorix/xalgorix",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "xoxorwr/pw-loudness-eq",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "yanauto/opus-manager",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "yazguldev/warcraft-cs",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "yebisu0529-ship-it/talk-style-live-translation",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "yetidevworks/drydock",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "zadescoxp/jev-trades",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "zigzagboi1/scarlettport",
+    "level": 0,
+    "sources": [
+      "csv"
+    ]
+  },
+  {
+    "repo": "zortos293/xsemu",
+    "level": 0,
+    "sources": [
+      "csv",
+      "rss"
+    ]
+  }
+]

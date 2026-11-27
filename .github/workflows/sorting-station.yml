@@ -1,0 +1,60 @@
+name: Sorting station snapshot
+on:
+  push:
+    branches: [mission-002-sorting-station]
+    paths: ['.github/workflows/sorting-station.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: sorting-station-snapshot
+  cancel-in-progress: false
+jobs:
+  snapshot:
+    if: github.ref == 'refs/heads/mission-002-sorting-station'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+      - run: node --check docs/warehouse.js
+      - name: Recover original shipment
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p inventory
+          gh run download 45926080031 --name motherlode-import --dir inventory
+          cp inventory/enriched.json inventory/original-enriched.json
+          cp inventory/shortlist.json inventory/original-shortlist.json
+      - name: Enrich remaining candidates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m discovery.enrich inventory/raw-discoveries.json --out inventory/enriched.json --limit 500
+      - run: python -m discovery.sort_station
+      - name: Validate generated index
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          rows=json.loads(Path('docs/warehouse.json').read_text())
+          assert len(rows)==len({x['repo'].lower() for x in rows})
+          assert len(rows)>=204
+          assert all(x['level']==0 for x in rows)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sorting-station
+          path: |
+            inventory/
+            docs/warehouse.json
+      - name: Persist snapshot on mission branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add inventory/ docs/warehouse.json
+          git diff --cached --quiet || git commit -m 'Mission 002: persist warehouse snapshot'
+          git push origin HEAD:refs/heads/mission-002-sorting-station
