@@ -1,0 +1,42 @@
+name: Infinite warehouse snapshot
+on:
+  push:
+    branches: [mission-005-infinite-warehouse]
+    paths: ['.github/workflows/expand.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: infinite-warehouse
+  cancel-in-progress: false
+jobs:
+  expand:
+    if: github.ref == 'refs/heads/mission-005-infinite-warehouse'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+      - name: Expand public repository candidates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m discovery.expand --target 1000
+      - run: python -m discovery.sort_station
+      - run: python -m unittest discover -s tests -v
+      - uses: actions/upload-artifact@v4
+        with:
+          name: infinite-warehouse
+          path: |
+            inventory/expansion-report.json
+            inventory/sorting-report.json
+            docs/warehouse.json
+      - name: Persist on mission branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add inventory/ docs/warehouse.json
+          git diff --cached --quiet || git commit -m 'Mission 005: persist expanded inventory'
+          git push origin HEAD:refs/heads/mission-005-infinite-warehouse

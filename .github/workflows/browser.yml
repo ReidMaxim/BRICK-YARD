@@ -2,12 +2,12 @@ name: Showroom browser validation
 on:
   pull_request:
   push:
-    branches: [mission-004-grand-opening]
+    branches: [mission-004-grand-opening, mission-005-infinite-warehouse]
 permissions:
   contents: read
 jobs:
   browser:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
