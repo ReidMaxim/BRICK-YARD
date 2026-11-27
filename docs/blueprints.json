@@ -1,0 +1,122 @@
+[
+  {
+    "id": "BP-001",
+    "name": "BENCHMARK//ARENA",
+    "concept": "A visual tournament for code optimizations, with reproducible measurements and agent provenance.",
+    "bricks": [
+      "CHSZLab/AgenticAlgorithmEngineering",
+      "alizahidraja/isnad"
+    ],
+    "first_mission": "Run two implementations against the same synthetic workload and export a reproducible scorecard.",
+    "status": "hypothesis",
+    "risks": "Interfaces, actual licenses, dependencies, hardware and operating costs unverified."
+  },
+  {
+    "id": "BP-002",
+    "name": "POCKET//MISSION",
+    "concept": "An ESP32 desk companion that displays coding-agent status and lets you acknowledge completed missions.",
+    "bricks": [
+      "DanWahlin/agent-buddy",
+      "puritysb/AgentDeck"
+    ],
+    "first_mission": "Display simulated build status on a browser first, then investigate ESP32 adapters.",
+    "status": "hypothesis",
+    "risks": "Interfaces, actual licenses, dependencies, hardware and operating costs unverified."
+  },
+  {
+    "id": "BP-003",
+    "name": "INK//EXPLAIN",
+    "concept": "Interactive engineering diagrams that become short narrated technical explainers.",
+    "bricks": [
+      "Moh4696/inkworks-skill",
+      "petergyang/video-explainer"
+    ],
+    "first_mission": "Make one explainer of a fictional network topology using original assets.",
+    "status": "hypothesis",
+    "risks": "Interfaces, actual licenses, dependencies, hardware and operating costs unverified."
+  },
+  {
+    "id": "BP-004",
+    "name": "SPRITE//CITY",
+    "concept": "A sprite-stacked miniature town renderer with motion-designed menus.",
+    "bricks": [
+      "loktar00/sprite-stack-engine",
+      "Moddingflow/better-design"
+    ],
+    "first_mission": "Render one original city block in WebGL2 and measure frame timing.",
+    "status": "hypothesis",
+    "risks": "Interfaces, actual licenses, dependencies, hardware and operating costs unverified."
+  },
+  {
+    "id": "BP-005",
+    "name": "MOTION//LAB",
+    "concept": "A reusable library of motion design recipes for automated video production.",
+    "bricks": [
+      "frankxai/awesome-motion-design-agent-skills",
+      "motionvideohq/motionvideo.xyz"
+    ],
+    "first_mission": "Inspect the directories and implement three independently licensed animation recipes.",
+    "status": "hypothesis",
+    "risks": "Interfaces, actual licenses, dependencies, hardware and operating costs unverified."
+  },
+  {
+    "id": "BP-006",
+    "name": "AGENT//BLACKBOX",
+    "concept": "A local dashboard for reviewing coding-agent actions and evidence from isolated runs.",
+    "bricks": [
+      "Godcreatebugs/raytrace-cli",
+      "anhermon/awesome-agent-observability"
+    ],
+    "first_mission": "Inspect sandbox guarantees; display a synthetic event trace without running third-party code.",
+    "status": "hypothesis",
+    "risks": "Interfaces, actual licenses, dependencies, hardware and operating costs unverified."
+  },
+  {
+    "id": "BP-007",
+    "name": "DESIGN//FOUNDRY",
+    "concept": "A design-token workbench that turns your own websites into reusable visual systems.",
+    "bricks": [
+      "arvindrk/extract-design-system",
+      "Moddingflow/better-design"
+    ],
+    "first_mission": "Extract tokens from a locally owned fixture and compare visual output.",
+    "status": "hypothesis",
+    "risks": "Interfaces, actual licenses, dependencies, hardware and operating costs unverified."
+  },
+  {
+    "id": "BP-008",
+    "name": "TATER//CINEMA",
+    "concept": "A low-VRAM video-generation experiment with a structured storyboard pipeline.",
+    "bricks": [
+      "alexturkey/VideoTurko",
+      "LuoJiangYong/muse-video-skill"
+    ],
+    "first_mission": "Measure a tiny local generation on supported hardware; confirm model rights and costs first.",
+    "status": "hypothesis",
+    "risks": "Interfaces, actual licenses, dependencies, hardware and operating costs unverified."
+  },
+  {
+    "id": "BP-009",
+    "name": "WORKSHOP//PULSE",
+    "concept": "A dashboard of time spent and evidence produced across GitHub coding missions.",
+    "bricks": [
+      "Clockoli/clockoli",
+      "Rikinshah787/dotpals"
+    ],
+    "first_mission": "Use synthetic time and test events; verify data formats and copyleft obligations before integration.",
+    "status": "hypothesis",
+    "risks": "Interfaces, actual licenses, dependencies, hardware and operating costs unverified."
+  },
+  {
+    "id": "BP-010",
+    "name": "AGENT//BUDGET",
+    "concept": "A local experiment comparing agent skill token costs and optimization evidence.",
+    "bricks": [
+      "wangyuchen5110/opencodeplugginprogram",
+      "CHSZLab/AgenticAlgorithmEngineering"
+    ],
+    "first_mission": "Compare two fixed prompts with a repeatable token-count method and record uncertainty.",
+    "status": "hypothesis",
+    "risks": "Interfaces, actual licenses, dependencies, hardware and operating costs unverified."
+  }
+]
