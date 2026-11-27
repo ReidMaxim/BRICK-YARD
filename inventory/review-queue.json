@@ -1,0 +1,132 @@
+[
+  {
+    "repo": "TokisanGames/Terrain3D",
+    "status": "awaiting documentation review",
+    "level": 0,
+    "checks": [
+      "actual license and exceptions",
+      "supported versions",
+      "dependencies",
+      "input/output interfaces",
+      "hardware requirements",
+      "isolated minimal acceptance test"
+    ]
+  },
+  {
+    "repo": "jrouwe/JoltPhysics",
+    "status": "awaiting documentation review",
+    "level": 0,
+    "checks": [
+      "actual license and exceptions",
+      "supported versions",
+      "dependencies",
+      "input/output interfaces",
+      "hardware requirements",
+      "isolated minimal acceptance test"
+    ]
+  },
+  {
+    "repo": "RodZill4/material-maker",
+    "status": "awaiting documentation review",
+    "level": 0,
+    "checks": [
+      "actual license and exceptions",
+      "supported versions",
+      "dependencies",
+      "input/output interfaces",
+      "hardware requirements",
+      "isolated minimal acceptance test"
+    ]
+  },
+  {
+    "repo": "recastnavigation/recastnavigation",
+    "status": "awaiting documentation review",
+    "level": 0,
+    "checks": [
+      "actual license and exceptions",
+      "supported versions",
+      "dependencies",
+      "input/output interfaces",
+      "hardware requirements",
+      "isolated minimal acceptance test"
+    ]
+  },
+  {
+    "repo": "Auburn/FastNoise2",
+    "status": "awaiting documentation review",
+    "level": 0,
+    "checks": [
+      "actual license and exceptions",
+      "supported versions",
+      "dependencies",
+      "input/output interfaces",
+      "hardware requirements",
+      "isolated minimal acceptance test"
+    ]
+  },
+  {
+    "repo": "zeux/meshoptimizer",
+    "status": "awaiting documentation review",
+    "level": 0,
+    "checks": [
+      "actual license and exceptions",
+      "supported versions",
+      "dependencies",
+      "input/output interfaces",
+      "hardware requirements",
+      "isolated minimal acceptance test"
+    ]
+  },
+  {
+    "repo": "guillaumeblanc/ozz-animation",
+    "status": "awaiting documentation review",
+    "level": 0,
+    "checks": [
+      "actual license and exceptions",
+      "supported versions",
+      "dependencies",
+      "input/output interfaces",
+      "hardware requirements",
+      "isolated minimal acceptance test"
+    ]
+  },
+  {
+    "repo": "effekseer/Effekseer",
+    "status": "awaiting documentation review",
+    "level": 0,
+    "checks": [
+      "actual license and exceptions",
+      "supported versions",
+      "dependencies",
+      "input/output interfaces",
+      "hardware requirements",
+      "isolated minimal acceptance test"
+    ]
+  },
+  {
+    "repo": "shinshin86/mesh-avatar-studio",
+    "status": "awaiting documentation review",
+    "level": 0,
+    "checks": [
+      "actual license and exceptions",
+      "supported versions",
+      "dependencies",
+      "input/output interfaces",
+      "hardware requirements",
+      "isolated minimal acceptance test"
+    ]
+  },
+  {
+    "repo": "shinyobjectz/raea",
+    "status": "awaiting documentation review",
+    "level": 0,
+    "checks": [
+      "actual license and exceptions",
+      "supported versions",
+      "dependencies",
+      "input/output interfaces",
+      "hardware requirements",
+      "isolated minimal acceptance test"
+    ]
+  }
+]
