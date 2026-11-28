@@ -1,0 +1,74 @@
+{
+  "initial": 204,
+  "target": 1000,
+  "queries": [
+    {
+      "topic": "computer-vision",
+      "page": 1,
+      "returned": 100,
+      "added": 100,
+      "incomplete": false
+    },
+    {
+      "topic": "robotics",
+      "page": 1,
+      "returned": 100,
+      "added": 92,
+      "incomplete": false
+    },
+    {
+      "topic": "godot",
+      "page": 1,
+      "returned": 100,
+      "added": 100,
+      "incomplete": false
+    },
+    {
+      "topic": "procedural-generation",
+      "page": 1,
+      "returned": 100,
+      "added": 97,
+      "incomplete": false
+    },
+    {
+      "topic": "audio-processing",
+      "page": 1,
+      "returned": 100,
+      "added": 99,
+      "incomplete": false
+    },
+    {
+      "topic": "digital-forensics",
+      "page": 1,
+      "returned": 100,
+      "added": 100,
+      "incomplete": false
+    },
+    {
+      "topic": "embedded",
+      "page": 1,
+      "returned": 100,
+      "added": 98,
+      "incomplete": false
+    },
+    {
+      "topic": "geospatial",
+      "page": 1,
+      "returned": 100,
+      "added": 100,
+      "incomplete": false
+    },
+    {
+      "topic": "scientific-computing",
+      "page": 1,
+      "returned": 100,
+      "added": 100,
+      "incomplete": false
+    }
+  ],
+  "errors": [],
+  "final": 1090,
+  "added": 886,
+  "metadata": 1088,
+  "target_reached": true
+}

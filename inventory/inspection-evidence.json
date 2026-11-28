@@ -1,0 +1,285 @@
+{
+  "records": [
+    {
+      "repo": "TokisanGames/Terrain3D",
+      "requested_repo": "TokisanGames/Terrain3D",
+      "commit": "69699ff0e3b629230dd1a0d7e6e7dda84cca2d26",
+      "level": 0,
+      "review_status": "evidence collected; human review pending",
+      "hardware": "unknown",
+      "dependencies": "unknown",
+      "interfaces": "unknown",
+      "license_reported": "MIT",
+      "documents": [
+        {
+          "kind": "readme",
+          "path": "README.md",
+          "sha256": "7363c83730920dc7963d02cfcb8e211ceca12bb91b145e37e3fe9bf40b03120c",
+          "bytes": 2594,
+          "url": "https://github.com/TokisanGames/Terrain3D/blob/69699ff0e3b629230dd1a0d7e6e7dda84cca2d26/README.md"
+        },
+        {
+          "kind": "license",
+          "path": "LICENSE.txt",
+          "sha256": "f7ecc09ce65c97828130728072c5a6ed3cc185d3bf0436e51a15828ad9ceca7c",
+          "bytes": 1112,
+          "url": "https://github.com/TokisanGames/Terrain3D/blob/69699ff0e3b629230dd1a0d7e6e7dda84cca2d26/LICENSE.txt"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "repo": "jrouwe/JoltPhysics",
+      "requested_repo": "jrouwe/JoltPhysics",
+      "commit": "9e53a3f9022842df8379c0df95ebfe501465287f",
+      "level": 0,
+      "review_status": "evidence collected; human review pending",
+      "hardware": "unknown",
+      "dependencies": "unknown",
+      "interfaces": "unknown",
+      "license_reported": "MIT",
+      "documents": [
+        {
+          "kind": "readme",
+          "path": "README.md",
+          "sha256": "ad1bc97a1bd81f5f0cda9975684dd175ddb22b721dd34d5d26f42443e5fe859d",
+          "bytes": 12043,
+          "url": "https://github.com/jrouwe/JoltPhysics/blob/9e53a3f9022842df8379c0df95ebfe501465287f/README.md"
+        },
+        {
+          "kind": "license",
+          "path": "LICENSE",
+          "sha256": "800abe35d64ad9defd636ff1ee8c961e06f0ebca3ef8d10083e8aa0e8ef86ac3",
+          "bytes": 1052,
+          "url": "https://github.com/jrouwe/JoltPhysics/blob/9e53a3f9022842df8379c0df95ebfe501465287f/LICENSE"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "repo": "RodZill4/material-maker",
+      "requested_repo": "RodZill4/material-maker",
+      "commit": "7d6daae3c74c09720afe4138ce09699ab3591ce1",
+      "level": 0,
+      "review_status": "evidence collected; human review pending",
+      "hardware": "unknown",
+      "dependencies": "unknown",
+      "interfaces": "unknown",
+      "license_reported": "MIT",
+      "documents": [
+        {
+          "kind": "readme",
+          "path": "README.md",
+          "sha256": "fe4f9eff499f55f1d21fe692921ab2a2d40e6616c249a8734318e10fbbbfad68",
+          "bytes": 2009,
+          "url": "https://github.com/RodZill4/material-maker/blob/7d6daae3c74c09720afe4138ce09699ab3591ce1/README.md"
+        },
+        {
+          "kind": "license",
+          "path": "LICENSE.md",
+          "sha256": "db17817a68e6c06c3aba6242d50ec34285c02f1ada4fbd8cd7382110f95c09de",
+          "bytes": 1100,
+          "url": "https://github.com/RodZill4/material-maker/blob/7d6daae3c74c09720afe4138ce09699ab3591ce1/LICENSE.md"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "repo": "recastnavigation/recastnavigation",
+      "requested_repo": "recastnavigation/recastnavigation",
+      "commit": "9f4ce64458dfae86e1239c525ddc219c4e9e06f1",
+      "level": 0,
+      "review_status": "evidence collected; human review pending",
+      "hardware": "unknown",
+      "dependencies": "unknown",
+      "interfaces": "unknown",
+      "license_reported": "Zlib",
+      "documents": [
+        {
+          "kind": "readme",
+          "path": "README.md",
+          "sha256": "3e36443648f6f8888ebd2121663d8848b719c37a3118cfd345ca8242e7583ea3",
+          "bytes": 4330,
+          "url": "https://github.com/recastnavigation/recastnavigation/blob/9f4ce64458dfae86e1239c525ddc219c4e9e06f1/README.md"
+        },
+        {
+          "kind": "license",
+          "path": "License.txt",
+          "sha256": "ffad87821cce7cfd3be00b63ffadd01b04e83a4c6a0bcc68f06362ffd42d705e",
+          "bytes": 877,
+          "url": "https://github.com/recastnavigation/recastnavigation/blob/9f4ce64458dfae86e1239c525ddc219c4e9e06f1/License.txt"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "repo": "Auburn/FastNoise2",
+      "requested_repo": "Auburn/FastNoise2",
+      "commit": "c35d6041ce7efc05bc84e26d762f6a38d2dcc71e",
+      "level": 0,
+      "review_status": "evidence collected; human review pending",
+      "hardware": "unknown",
+      "dependencies": "unknown",
+      "interfaces": "unknown",
+      "license_reported": "MIT",
+      "documents": [
+        {
+          "kind": "readme",
+          "path": "README.md",
+          "sha256": "4fb442486b116974947b56bee05b658a03e337edf8b6d361fc4bc7cacdccee53",
+          "bytes": 6339,
+          "url": "https://github.com/Auburn/FastNoise2/blob/c35d6041ce7efc05bc84e26d762f6a38d2dcc71e/README.md"
+        },
+        {
+          "kind": "license",
+          "path": "LICENSE",
+          "sha256": "6a772f6fa13928b07693cc8643dac0284910ea031b82cba1b49e51a36616cddf",
+          "bytes": 1068,
+          "url": "https://github.com/Auburn/FastNoise2/blob/c35d6041ce7efc05bc84e26d762f6a38d2dcc71e/LICENSE"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "repo": "zeux/meshoptimizer",
+      "requested_repo": "zeux/meshoptimizer",
+      "commit": "2111560a8f647c51d0707b5e677019753e6ea080",
+      "level": 0,
+      "review_status": "evidence collected; human review pending",
+      "hardware": "unknown",
+      "dependencies": "unknown",
+      "interfaces": "unknown",
+      "license_reported": "MIT",
+      "documents": [
+        {
+          "kind": "readme",
+          "path": "README.md",
+          "sha256": "69dee313d6982ef86199c0e8cb0f5ad9aca683bf2250418a872fcbbcc00d514b",
+          "bytes": 107230,
+          "url": "https://github.com/zeux/meshoptimizer/blob/2111560a8f647c51d0707b5e677019753e6ea080/README.md"
+        },
+        {
+          "kind": "license",
+          "path": "LICENSE.md",
+          "sha256": "f03037ca7bad1e3eb7f4a63fa6084a8baabd5ba30d3c239a9a7f35705d873e26",
+          "bytes": 1079,
+          "url": "https://github.com/zeux/meshoptimizer/blob/2111560a8f647c51d0707b5e677019753e6ea080/LICENSE.md"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "repo": "guillaumeblanc/ozz-animation",
+      "requested_repo": "guillaumeblanc/ozz-animation",
+      "commit": "744eb9d99f606eda849acb0b1204f7a3dc20bca1",
+      "level": 0,
+      "review_status": "evidence collected; human review pending",
+      "hardware": "unknown",
+      "dependencies": "unknown",
+      "interfaces": "unknown",
+      "license_reported": "NOASSERTION",
+      "documents": [
+        {
+          "kind": "readme",
+          "path": "README.md",
+          "sha256": "d232578af20d80e38c74d2bcec5641f058f8be343a87b35c1c6ad6180a5a887a",
+          "bytes": 3822,
+          "url": "https://github.com/guillaumeblanc/ozz-animation/blob/744eb9d99f606eda849acb0b1204f7a3dc20bca1/README.md"
+        },
+        {
+          "kind": "license",
+          "path": "LICENSE.md",
+          "sha256": "3ddd93e9888fe70b9d61675ceb1c4278a579dc67171678f015de114efe815852",
+          "bytes": 1183,
+          "url": "https://github.com/guillaumeblanc/ozz-animation/blob/744eb9d99f606eda849acb0b1204f7a3dc20bca1/LICENSE.md"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "repo": "effekseer/Effekseer",
+      "requested_repo": "effekseer/Effekseer",
+      "commit": "b5700082b49bc5f919610880dafddc90211a9a4e",
+      "level": 0,
+      "review_status": "evidence collected; human review pending",
+      "hardware": "unknown",
+      "dependencies": "unknown",
+      "interfaces": "unknown",
+      "license_reported": "MIT",
+      "documents": [
+        {
+          "kind": "readme",
+          "path": "README.md",
+          "sha256": "c52ae620f8de63adc11562e6bc006fa892119283f80d5913a4d6440248f3e392",
+          "bytes": 3460,
+          "url": "https://github.com/effekseer/Effekseer/blob/b5700082b49bc5f919610880dafddc90211a9a4e/README.md"
+        },
+        {
+          "kind": "license",
+          "path": "LICENSE",
+          "sha256": "9686573243a6e4732edef9e39ac1356371dc7f4a17d995bea32777e36463cb29",
+          "bytes": 1084,
+          "url": "https://github.com/effekseer/Effekseer/blob/b5700082b49bc5f919610880dafddc90211a9a4e/LICENSE"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "repo": "shinshin86/mesh-avatar-studio",
+      "requested_repo": "shinshin86/mesh-avatar-studio",
+      "commit": "fb823c05c9963d241fec42e772959be562c927eb",
+      "level": 0,
+      "review_status": "evidence collected; human review pending",
+      "hardware": "unknown",
+      "dependencies": "unknown",
+      "interfaces": "unknown",
+      "license_reported": "MIT",
+      "documents": [
+        {
+          "kind": "readme",
+          "path": "README.md",
+          "sha256": "60402bb8ff52dfc313359caf1518056d5b2a8cd614787a8f786ee26301b8d972",
+          "bytes": 14216,
+          "url": "https://github.com/shinshin86/mesh-avatar-studio/blob/fb823c05c9963d241fec42e772959be562c927eb/README.md"
+        },
+        {
+          "kind": "license",
+          "path": "LICENSE",
+          "sha256": "dccdf15e74130a2298f8d9c6038645e27f493deb6f64ff2ff3fa27e770554fbd",
+          "bytes": 1068,
+          "url": "https://github.com/shinshin86/mesh-avatar-studio/blob/fb823c05c9963d241fec42e772959be562c927eb/LICENSE"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "repo": "shinyobjectz/raea",
+      "requested_repo": "shinyobjectz/raea",
+      "commit": "f4db12c1d0267b639da4f0c0e7f0a1a10d2f4338",
+      "level": 0,
+      "review_status": "evidence collected; human review pending",
+      "hardware": "unknown",
+      "dependencies": "unknown",
+      "interfaces": "unknown",
+      "license_reported": "NOASSERTION",
+      "documents": [
+        {
+          "kind": "readme",
+          "path": "README.md",
+          "sha256": "4cffd1344fdfeb414a390e5ab02826c42cf2f5edff971a8985f18fad33207bf2",
+          "bytes": 11579,
+          "url": "https://github.com/shinyobjectz/raea/blob/f4db12c1d0267b639da4f0c0e7f0a1a10d2f4338/README.md"
+        },
+        {
+          "kind": "license",
+          "path": "LICENSE",
+          "sha256": "fe3ce8198545420f93b83a2fd02e6fff4a4414ffcb2309df50878adf39d1c392",
+          "bytes": 3744,
+          "url": "https://github.com/shinyobjectz/raea/blob/f4db12c1d0267b639da4f0c0e7f0a1a10d2f4338/LICENSE"
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "errors": []
+}

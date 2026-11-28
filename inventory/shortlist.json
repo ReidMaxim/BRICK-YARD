@@ -47,6 +47,28 @@
     "review_required": true
   },
   {
+    "repo": "alexgreensh/anidoodle",
+    "sources": [
+      "github-topic:procedural-generation"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "animation",
+      "media",
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-05T20:35:49Z",
+    "stars": 2088,
+    "relevance": 35,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
     "repo": "CybeDefend/cybedefend",
     "sources": [
       "csv"
@@ -66,6 +88,51 @@
     "stars": 94,
     "relevance": 35,
     "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "edbeeching/godot_rl_agents",
+    "sources": [
+      "github-topic:godot"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "games",
+      "media",
+      "science"
+    ],
+    "license": "MIT",
+    "description": "An Open Source package that allows video game creators, AI researchers and hobbyists the opportunity to learn complex behaviors for their Non Player Characters or agents",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-07-10T20:19:17Z",
+    "stars": 1644,
+    "relevance": 35,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "EL4CTEO/blender-skills",
+    "sources": [
+      "github-topic:godot"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "animation",
+      "media"
+    ],
+    "license": "MIT",
+    "description": "Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-21T14:35:50Z",
+    "stars": 2980,
+    "relevance": 35,
+    "license_group": "permissive candidate",
     "review_required": true
   },
   {
@@ -89,6 +156,119 @@
     "stars": 112,
     "relevance": 35,
     "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "instruktlabs/kiln",
+    "sources": [
+      "github-topic:procedural-generation"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "media",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Build and revise procedural 3D assets with your coding agent. Local MCP server, CLI and TypeScript engine with rendered review, editable source and GLB export.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T22:15:20Z",
+    "stars": 356,
+    "relevance": 35,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "jame581/GodotPrompter",
+    "sources": [
+      "github-topic:godot"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "games",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Agentic skills framework for Godot 4.x. Domain-specific skills for AI coding agents (Claude Code, Copilot, Antigravity, Cursor)",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-14T12:45:49Z",
+    "stars": 996,
+    "relevance": 35,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Kevin-Liu-01/Claude-of-Tanks",
+    "sources": [
+      "github-topic:procedural-generation"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "games",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "A World of Tanks-style armored combat simulator built directly with Three.js and Vite: 311 vehicles, 33 destructible battlefields, and 15 modes, with plate-level armor, ballistics, modules, spotting, and physics. Play in your browser on desktop or mobile. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-27T06:32:23Z",
+    "stars": 558,
+    "relevance": 35,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "KsanaDock/Microverse",
+    "sources": [
+      "github-topic:godot"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "games",
+      "science",
+      "security"
+    ],
+    "license": "MIT",
+    "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication.",
+    "language": "GDScript",
+    "archived": false,
+    "pushed_at": "2026-04-10T00:54:43Z",
+    "stars": 2524,
+    "relevance": 35,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "marcogdepinto/emotion-classification-from-audio-files",
+    "sources": [
+      "github-topic:audio-processing"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "animation",
+      "audio-dsp",
+      "media",
+      "networking",
+      "security"
+    ],
+    "license": "GPL-3.0",
+    "description": "Understanding emotions from audio files using neural networks and multiple datasets.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2023-07-01T07:02:47Z",
+    "stars": 432,
+    "relevance": 35,
+    "license_group": "review required",
     "review_required": true
   },
   {
@@ -138,6 +318,73 @@
     "review_required": true
   },
   {
+    "repo": "PixelGuys/Cubyz",
+    "sources": [
+      "github-topic:procedural-generation"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "games",
+      "media",
+      "security"
+    ],
+    "license": "GPL-3.0",
+    "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+    "language": "Zig",
+    "archived": false,
+    "pushed_at": "2026-11-25T19:41:08Z",
+    "stars": 3773,
+    "relevance": 35,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "Refloow/Refloow-Geo-Forensics",
+    "sources": [
+      "github-topic:digital-forensics"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "media",
+      "security",
+      "web"
+    ],
+    "license": "AGPL-3.0",
+    "description": "❤️ Free batch image & video geolocation digital forensics tool. Automatically extract EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-11-26T03:05:19Z",
+    "stars": 238,
+    "relevance": 35,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "weigert/territory",
+    "sources": [
+      "github-topic:procedural-generation"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "games",
+      "media",
+      "science"
+    ],
+    "license": null,
+    "description": "3D rendered proc-gen world test. C++ homebrew voxel engine for agent-driven prodedural generation / world simulation",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2022-11-08T15:24:31Z",
+    "stars": 397,
+    "relevance": 30,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
     "repo": "1113800942/comfy-h3md-director",
     "sources": [
       "csv"
@@ -159,6 +406,27 @@
     "review_required": true
   },
   {
+    "repo": "2Retr0/GodotOceanWaves",
+    "sources": [
+      "github-topic:godot"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "games",
+      "media"
+    ],
+    "license": "MIT",
+    "description": "FFT-based ocean-wave rendering, implemented in Godot",
+    "language": "C#",
+    "archived": false,
+    "pushed_at": "2025-04-29T17:17:08Z",
+    "stars": 3366,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
     "repo": "Agenty/shortener",
     "sources": [
       "csv"
@@ -177,6 +445,71 @@
     "stars": 107,
     "relevance": 25,
     "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "AhmadHassan-BTed/NaSuno-SongHumanizer",
+    "sources": [
+      "github-topic:audio-processing"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "audio-dsp",
+      "media",
+      "security"
+    ],
+    "license": "MIT",
+    "description": "AI audio watermark removal & forensic anti-attribution toolkit. Neutralizes Suno, Udio, and neural fingerprints with ISO 226 perceptual masking.",
+    "language": null,
+    "archived": false,
+    "pushed_at": "2026-11-05T14:38:54Z",
+    "stars": 5948,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "ai-winter/ros_motion_planning",
+    "sources": [
+      "github-topic:robotics"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "animation",
+      "games"
+    ],
+    "license": "GPL-3.0",
+    "description": "Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, PSO, Voronoi, PID, LQR, MPC, DWA, APF, Pure Pursuit etc.",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-04-24T14:49:10Z",
+    "stars": 3630,
+    "relevance": 25,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "aipoch/open-science",
+    "sources": [
+      "github-topic:scientific-computing"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "science",
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-27T09:08:13Z",
+    "stars": 5584,
+    "relevance": 25,
+    "license_group": "permissive candidate",
     "review_required": true
   },
   {
@@ -266,6 +599,49 @@
     "review_required": true
   },
   {
+    "repo": "Belluxx/Aleph",
+    "sources": [
+      "github-topic:geospatial"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "games",
+      "geospatial"
+    ],
+    "license": "MIT",
+    "description": "Give satellite imagery, terrain data, buildings, streetview photos to your LLM",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-11-01T14:44:09Z",
+    "stars": 950,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "BootLoops-ai/bootloops",
+    "sources": [
+      "github-topic:scientific-computing"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "games"
+    ],
+    "license": "MIT",
+    "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+    "language": "Python",
+    "archived": false,
+    "pushed_at": "2026-10-22T19:20:00Z",
+    "stars": 451,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
     "repo": "BotHarness/DeepSeekBot",
     "sources": [
       "csv"
@@ -282,6 +658,69 @@
     "archived": false,
     "pushed_at": "2026-11-26T23:17:42Z",
     "stars": 1070,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "boxlite-ai/boxlite",
+    "sources": [
+      "github-topic:embedded"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "Apache-2.0",
+    "description": "The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.",
+    "language": "TypeScript",
+    "archived": false,
+    "pushed_at": "2026-11-27T09:10:33Z",
+    "stars": 2692,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "ByteYellow/AgentProvenance",
+    "sources": [
+      "github-topic:digital-forensics"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "security"
+    ],
+    "license": "Apache-2.0",
+    "description": "Security-oriented three-axis observability for sandboxed AI agents: model intent, app context, and runtime telemetry into verifiable evidence graphs for risk, forensics, and audit.",
+    "language": "Go",
+    "archived": false,
+    "pushed_at": "2026-11-25T06:37:08Z",
+    "stars": 66,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "Coding-Solo/godot-mcp",
+    "sources": [
+      "github-topic:godot"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "games",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-04-16T23:37:00Z",
+    "stars": 6781,
     "relevance": 25,
     "license_group": "permissive candidate",
     "review_required": true
@@ -304,6 +743,94 @@
     "archived": false,
     "pushed_at": "2026-11-05T00:37:28Z",
     "stars": 75,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "databendlabs/databend",
+    "sources": [
+      "github-topic:geospatial"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "security"
+    ],
+    "license": "Apache-2.0",
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-27T07:02:26Z",
+    "stars": 9509,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "DBraun/DawDreamer",
+    "sources": [
+      "github-topic:audio-processing"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "audio-dsp",
+      "media"
+    ],
+    "license": "GPL-3.0",
+    "description": "Digital Audio Workstation with Python; VST instruments/effects, parameter automation, FAUST, JAX, Warp Markers, and JUCE processors",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2026-11-01T05:04:16Z",
+    "stars": 1364,
+    "relevance": 25,
+    "license_group": "review required",
+    "review_required": true
+  },
+  {
+    "repo": "Donchitos/Claude-Code-Game-Studios",
+    "sources": [
+      "github-topic:godot"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "games"
+    ],
+    "license": "MIT",
+    "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+    "language": "Shell",
+    "archived": false,
+    "pushed_at": "2026-11-09T23:33:14Z",
+    "stars": 41108,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "dusty-nv/jetson-inference",
+    "sources": [
+      "github-topic:computer-vision",
+      "github-topic:embedded",
+      "github-topic:robotics"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "networking",
+      "security"
+    ],
+    "license": "MIT",
+    "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2025-10-16T17:34:47Z",
+    "stars": 9037,
     "relevance": 25,
     "license_group": "permissive candidate",
     "review_required": true
@@ -352,6 +879,27 @@
     "review_required": true
   },
   {
+    "repo": "frangelbarrera/osint-agent-skills",
+    "sources": [
+      "github-topic:digital-forensics"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "OSINT knowledge base + MCP server for autonomous AI agents — Claude Code, Cursor, Kimi K3, recon & threat intel playbooks.",
+    "language": "JavaScript",
+    "archived": false,
+    "pushed_at": "2026-10-02T18:57:50Z",
+    "stars": 57,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
     "repo": "fxceless/victory-fork",
     "sources": [
       "csv"
@@ -373,689 +921,174 @@
     "review_required": true
   },
   {
-    "repo": "loktar00/sprite-stack-engine",
+    "repo": "gamedev-skills/awesome-gamedev-agent-skills",
     "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "media",
-      "web"
-    ],
-    "license": "MIT",
-    "description": "A sprite-stacking renderer in plain WebGL2: free camera, deferred lighting, hidden-surface removal, and overdraw that is measured, not guessed.",
-    "language": "JavaScript",
-    "archived": false,
-    "pushed_at": "2026-11-23T07:34:32Z",
-    "stars": 69,
-    "relevance": 25,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "LuoJiangYong/muse-video-skill",
-    "sources": [
-      "csv"
+      "github-topic:godot"
     ],
     "stage": "metadata",
     "level": 0,
     "tags": [
       "agents",
-      "media"
+      "games"
     ],
-    "license": "MIT",
-    "description": "视频创作虚拟剧组引擎 — 创意 → 剧本/分镜/美术/提示词 → 模型调用指令；38 案例技法库 × 六角色协作（导演/编剧/摄影/美术/特效/声音）× 全流程质量门，产出直连下游视频模型，适配任何 AI Agent｜Virtual film-crew engine for video creation — idea → script, storyboard, art direction, prompts → model-ready calls. 38-case library × 6-role crew (director/writer/DP/art dir./VFX/sound) × review gates; downstream-ready output for any agent.",
+    "license": "Apache-2.0",
+    "description": "Make games with your AI coding agent: 79 game-dev skills and a router for Godot, Unity, Unreal, Roblox, three.js, Phaser and 6 more engines. Checked on the real engines.",
     "language": "Python",
     "archived": false,
-    "pushed_at": "2026-09-30T14:53:15Z",
-    "stars": 215,
+    "pushed_at": "2026-11-12T07:38:53Z",
+    "stars": 11599,
     "relevance": 25,
     "license_group": "permissive candidate",
     "review_required": true
   },
   {
-    "repo": "Moh4696/inkworks-skill",
+    "repo": "GDQuest/godot-steering-ai-framework",
     "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents",
-      "web"
-    ],
-    "license": "MIT",
-    "description": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
-    "language": "JavaScript",
-    "archived": false,
-    "pushed_at": "2026-11-25T13:53:35Z",
-    "stars": 475,
-    "relevance": 25,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "petergyang/video-explainer",
-    "sources": [
-      "csv",
-      "rss"
+      "github-topic:godot"
     ],
     "stage": "metadata",
     "level": 0,
     "tags": [
       "animation",
-      "media"
+      "games"
     ],
     "license": "MIT",
-    "description": "Turn any topic, doc, codebase, or URL into a crisp 1-minute explainer video in Motion, Illustrated, or 3D style",
-    "language": "Python",
+    "description": "A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.",
+    "language": "GDScript",
     "archived": false,
-    "pushed_at": "2026-11-25T18:00:55Z",
-    "stars": 525,
+    "pushed_at": "2024-09-13T09:43:05Z",
+    "stars": 1599,
     "relevance": 25,
     "license_group": "permissive candidate",
     "review_required": true
   },
   {
-    "repo": "plannotator/talkto",
+    "repo": "genex-games/genex-desktop",
     "sources": [
-      "csv"
+      "github-topic:godot"
     ],
     "stage": "metadata",
     "level": 0,
     "tags": [
-      "agents",
+      "games",
       "web"
     ],
-    "license": "Apache-2.0",
-    "description": "Message boards for AI agents. For your distributed agents, or invite your team's agents.",
+    "license": "MIT",
+    "description": "Open-source desktop app for AI-native game dev. Build in Unreal Engine, Unity, Godot, Roblox or Three.js with any AI, including local models.",
     "language": "TypeScript",
     "archived": false,
-    "pushed_at": "2026-11-26T18:59:22Z",
-    "stars": 121,
+    "pushed_at": "2026-11-27T04:00:09Z",
+    "stars": 918,
     "relevance": 25,
     "license_group": "permissive candidate",
     "review_required": true
   },
   {
-    "repo": "puritysb/AgentDeck",
+    "repo": "ghua-ac/ENF-WHU-Dataset",
     "sources": [
-      "csv",
-      "rss"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents",
-      "embedded",
-      "web"
-    ],
-    "license": "MIT",
-    "description": "Local dashboards and physical controls for AI coding agents — native 3D aquariums, Stream Deck, Apple/Android apps, e-ink, ESP32 and LED displays.",
-    "language": "TypeScript",
-    "archived": false,
-    "pushed_at": "2026-11-27T00:02:28Z",
-    "stars": 305,
-    "relevance": 25,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "Rikinshah787/dotpals",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents",
-      "web"
-    ],
-    "license": "MIT",
-    "description": "See what your coding agent actually did. A desktop pal and notch for Claude Code, Codex, Cursor, Gemini CLI and any agent: test results read from the output, faked passes caught, and an MCP server any AI tool can ask. New: talk to Blu, who sees your screen, draws on it as it explains and uses your apps.",
-    "language": "JavaScript",
-    "archived": false,
-    "pushed_at": "2026-11-26T01:54:55Z",
-    "stars": 96,
-    "relevance": 25,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "sderosiaux/chrome-agent",
-    "sources": [
-      "csv",
-      "rss"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents",
-      "web"
-    ],
-    "license": "MIT",
-    "description": "Web tasks that compile. Other browser tools tell your AI agent the click worked. chrome-agent reads the page back after every action and answers in JSON what actually happened. One 3 MB Rust binary, no Node, no cloud.",
-    "language": "Rust",
-    "archived": false,
-    "pushed_at": "2026-10-12T02:24:32Z",
-    "stars": 100,
-    "relevance": 25,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "ThilinaTLM/nerve",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents",
-      "web"
-    ],
-    "license": "Apache-2.0",
-    "description": "A transparent, local-first desktop coding harness with the focus of a small agent and the workflow of a complete workbench.",
-    "language": "TypeScript",
-    "archived": false,
-    "pushed_at": "2026-11-26T17:25:17Z",
-    "stars": 85,
-    "relevance": 25,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "unstoppableweb/unstoppable-code",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents",
-      "web"
-    ],
-    "license": "MIT",
-    "description": "Use your favorite coding agents together in a single AI IDE. Run parallel agents, automate multi-agent workflows, and get an integrated terminal, browser, and mobile app.",
-    "language": "TypeScript",
-    "archived": false,
-    "pushed_at": "2026-11-26T23:25:37Z",
-    "stars": 83,
-    "relevance": 25,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "useapi/muse-api",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents",
-      "media"
-    ],
-    "license": "MIT",
-    "description": "Meta Muse API examples (muse.ai) and a hosted MCP server with 37 tools for Claude Code, Cursor and VS Code. Images and 10-second videos with sound on your Muse subscription, free plan included. Chat with the Muse agent, restore old photos, make a photo talk, swap a person in a video. Node.js, Python, n8n, agent skill. By useapi.net, third-party.",
-    "language": "Python",
-    "archived": false,
-    "pushed_at": "2026-11-26T20:39:01Z",
-    "stars": 65,
-    "relevance": 25,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "wangyuchen5110/opencodeplugginprogram",
-    "sources": [
-      "csv",
-      "rss"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents",
-      "web"
-    ],
-    "license": "MIT",
-    "description": "Measure the per-step token cost of agent skills. Boilerplate overlap is ignored, the plan keeps the routing sentence, and redundant skills are hidden first. CLI, OpenCode plugin, MCP, GitHub Action. Runs locally, no telemetry.",
-    "language": "JavaScript",
-    "archived": false,
-    "pushed_at": "2026-11-23T11:38:54Z",
-    "stars": 69,
-    "relevance": 25,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "xalgorix/xalgorix",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents",
-      "web"
-    ],
-    "license": "Apache-2.0",
-    "description": "Open-source AI penetration testing agent that exploit-verifies every finding. Autonomous 22-phase pentests of web apps & APIs with CVSS-scored PDF reports. Self-hosted, bring your own LLM, or run fully local with Ollama.",
-    "language": "Go",
-    "archived": false,
-    "pushed_at": "2026-11-27T04:46:03Z",
-    "stars": 1508,
-    "relevance": 25,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "0xSero/storyboard-to-video-system",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents",
-      "media"
-    ],
-    "license": null,
-    "description": "Story spec -> consistent Codex stills -> MiniMax H3 first/last-frame clips -> stitched silent videos. Agent SKILL.md included.",
-    "language": "Python",
-    "archived": false,
-    "pushed_at": "2026-11-24T07:11:09Z",
-    "stars": 55,
-    "relevance": 20,
-    "license_group": "review required",
-    "review_required": true
-  },
-  {
-    "repo": "5235aa-web/Pebble_companionchat",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "web"
-    ],
-    "license": "Apache-2.0",
-    "description": "A lightweight, locally-focused, and customizable chat impersonation application",
-    "language": "Python",
-    "archived": false,
-    "pushed_at": "2026-11-26T15:50:33Z",
-    "stars": 104,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "aarush-io/melo",
-    "sources": [
-      "csv",
-      "rss"
+      "github-topic:digital-forensics"
     ],
     "stage": "metadata",
     "level": 0,
     "tags": [
       "audio-dsp",
-      "media"
-    ],
-    "license": "GPL-3.0",
-    "description": "A minimal Android music player for Spotify, YouTube Music, and local audio.",
-    "language": "Kotlin",
-    "archived": false,
-    "pushed_at": "2026-11-26T13:42:06Z",
-    "stars": 250,
-    "relevance": 15,
-    "license_group": "review required",
-    "review_required": true
-  },
-  {
-    "repo": "akshit-bansal11/edgepad",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "games"
-    ],
-    "license": "MIT",
-    "description": "Turn an Android phone into a trackpad, remote and control deck for a Windows, Mac or Linux laptop. Corner dials, keyboard, gamepad, presenter, file transfer, clipboard and stats. No account, no server, no cloud.",
-    "language": "C#",
-    "archived": false,
-    "pushed_at": "2026-11-26T11:24:20Z",
-    "stars": 67,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "aleff-github/onion-routing-anatomy",
-    "sources": [
-      "csv",
-      "rss"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
+      "media",
       "networking",
       "security"
     ],
-    "license": "GPL-3.0",
-    "description": "Onion Routing Anatomy - A free, open-source technical book exploring the Tor protocol byte by byte, with 20 reproducible laboratories on a private Tor network. Italian original, multilingual editions, GPL-3.0-or-later.",
-    "language": "TeX",
-    "archived": false,
-    "pushed_at": "2026-11-22T18:58:05Z",
-    "stars": 109,
-    "relevance": 15,
-    "license_group": "review required",
-    "review_required": true
-  },
-  {
-    "repo": "alesha-pro/llm.asm",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents"
-    ],
     "license": "MIT",
-    "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-    "language": "Assembly",
+    "description": "This repo contains the ENF-WHU audio recording dataset collected around Wuhan University campus and the MATLAB programs for electronic network frequency (ENF) detection, enhancement, and robust estimation, in ENF-based audio forensic applications.",
+    "language": "MATLAB",
     "archived": false,
-    "pushed_at": "2026-11-25T15:42:44Z",
-    "stars": 1573,
-    "relevance": 15,
+    "pushed_at": "2023-07-27T07:37:04Z",
+    "stars": 38,
+    "relevance": 25,
     "license_group": "permissive candidate",
     "review_required": true
   },
   {
-    "repo": "alexturkey/VideoTurko",
+    "repo": "godotjs/javascript",
     "sources": [
-      "csv"
+      "github-topic:godot"
     ],
     "stage": "metadata",
     "level": 0,
     "tags": [
+      "games",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Javascript binding for godotengine",
+    "language": "C++",
+    "archived": false,
+    "pushed_at": "2024-09-27T22:14:42Z",
+    "stars": 1129,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "gokayfem/shader-skills",
+    "sources": [
+      "github-topic:procedural-generation"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "agents",
+      "web"
+    ],
+    "license": "MIT",
+    "description": "Procedural GLSL for AI coding agents. Includes 197 distinct function names across 21 modules, 27 interactive Shadertoy/WebGL2 studies, two WebGPU worlds, a shader bundler and a checker.",
+    "language": "Rust",
+    "archived": false,
+    "pushed_at": "2026-11-20T08:24:39Z",
+    "stars": 575,
+    "relevance": 25,
+    "license_group": "permissive candidate",
+    "review_required": true
+  },
+  {
+    "repo": "htdt/godogen",
+    "sources": [
+      "github-topic:godot"
+    ],
+    "stage": "metadata",
+    "level": 0,
+    "tags": [
+      "games",
       "media"
     ],
     "license": "MIT",
-    "description": "MiniMax H3 on a 4 GB GTX 1050 Ti: stable-diffusion.cpp memory patches, up to 209 frames (8.7 s) in one pass",
+    "description": "Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well",
     "language": "Python",
     "archived": false,
-    "pushed_at": "2026-11-26T23:02:27Z",
-    "stars": 242,
-    "relevance": 15,
+    "pushed_at": "2026-11-21T19:59:32Z",
+    "stars": 7431,
+    "relevance": 25,
     "license_group": "permissive candidate",
     "review_required": true
   },
   {
-    "repo": "alizahidraja/isnad",
+    "repo": "IceCreamYou/THREE.Terrain",
     "sources": [
-      "csv"
+      "github-topic:procedural-generation"
     ],
     "stage": "metadata",
     "level": 0,
     "tags": [
-      "agents"
-    ],
-    "license": "Apache-2.0",
-    "description": "Grade every agent, scraper and model in a claim's chain — provenance, trust scoring and audit evidence for LLM pipelines",
-    "language": "Python",
-    "archived": false,
-    "pushed_at": "2026-10-27T12:02:15Z",
-    "stars": 54,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "amd/skills",
-    "sources": [
-      "csv",
-      "rss"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents"
-    ],
-    "license": "MIT",
-    "description": "Official AMD catalog of AI agent skills. Empower your AI agents with AMD's optimized SW stack.",
-    "language": "Python",
-    "archived": false,
-    "pushed_at": "2026-11-26T06:34:45Z",
-    "stars": 515,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "andreabuttarelli/feega",
-    "sources": [
-      "csv",
-      "rss"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "web"
-    ],
-    "license": "Apache-2.0",
-    "description": "Click any element in your running app, edit it visually, and Feega writes the change to your code. Free and open source.",
-    "language": "TypeScript",
-    "archived": false,
-    "pushed_at": "2026-11-26T17:34:38Z",
-    "stars": 54,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "android2linux/android2linux",
-    "sources": [
-      "csv",
-      "rss"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents"
-    ],
-    "license": "MIT",
-    "description": "Turn an Android phone into a Linux pocket computer you control: guides, an agent skill, phone notes, scripts and apps for postmarketOS and Ubuntu Touch.",
-    "language": "Shell",
-    "archived": false,
-    "pushed_at": "2026-11-25T12:32:24Z",
-    "stars": 100,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "anhermon/awesome-agent-observability",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents"
-    ],
-    "license": "CC0-1.0",
-    "description": "Curated list of LLM and AI agent observability and evaluation tools: tracing, evals, LLM-as-judge, guardrails, OpenTelemetry GenAI, MCP.",
-    "language": "Python",
-    "archived": false,
-    "pushed_at": "2026-11-19T14:02:10Z",
-    "stars": 66,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "arthurzengg/opencui",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
+      "design",
+      "games",
       "web"
     ],
     "license": "MIT",
-    "description": "AI coding chat sidebar for VS Code.",
-    "language": "TypeScript",
-    "archived": false,
-    "pushed_at": "2026-11-25T17:42:29Z",
-    "stars": 64,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "AyaanZaveri/navigator",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "web"
-    ],
-    "license": "GPL-3.0",
-    "description": "A fairly polished Stremio client with an assistant built in",
-    "language": "TypeScript",
-    "archived": false,
-    "pushed_at": "2026-11-27T01:13:07Z",
-    "stars": 263,
-    "relevance": 15,
-    "license_group": "review required",
-    "review_required": true
-  },
-  {
-    "repo": "aykhanium/MacBox",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "games"
-    ],
-    "license": "GPL-2.0",
-    "description": "Experimental Apple Silicon (ARM macOS) compatibility layer for XCL using CrossOver, Rosetta 2 and D3DMetal. Native ARM64 runtime is not implemented; retail gameplay is unverified.",
-    "language": "Rust",
-    "archived": false,
-    "pushed_at": "2026-11-25T13:18:08Z",
-    "stars": 195,
-    "relevance": 15,
-    "license_group": "review required",
-    "review_required": true
-  },
-  {
-    "repo": "brcly/TuxBox",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "games"
-    ],
-    "license": "Apache-2.0",
-    "description": "TuxBox is a new, native-first compatibility layer for running unpacked, decrypted Xbox Series X|S games on x86-64 Linux and Windows.",
-    "language": "Rust",
-    "archived": false,
-    "pushed_at": "2026-11-27T01:54:42Z",
-    "stars": 391,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "BrOrlandi/miscale-dashboard",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "web"
-    ],
-    "license": "MIT",
-    "description": "Self-hosted live dashboard for the Xiaomi Mi Body Composition Scale 2 over Bluetooth Low Energy: profiles, body composition, history",
-    "language": "Python",
-    "archived": false,
-    "pushed_at": "2026-10-13T03:20:06Z",
-    "stars": 64,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "CHSZLab/AgenticAlgorithmEngineering",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "agents"
-    ],
-    "license": "MIT",
-    "description": "Agents that optimize code like an algorithm engineer: falsifiable hypotheses, benchmarks, verified patches, PDF report",
-    "language": "Python",
-    "archived": false,
-    "pushed_at": "2026-11-26T17:01:10Z",
-    "stars": 147,
-    "relevance": 15,
-    "license_group": "permissive candidate",
-    "review_required": true
-  },
-  {
-    "repo": "Clockoli/clockoli",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "web"
-    ],
-    "license": "GPL-3.0",
-    "description": "The Git-native time tracker for teams. Free forever, open-source, serverless. Your GitHub repo is your database. No subscriptions, no seat limits, no vendor lock-in.",
+    "description": "A procedural terrain generation engine for use with the Three.js 3D graphics library for the web.",
     "language": "JavaScript",
     "archived": false,
-    "pushed_at": "2026-11-26T13:59:37Z",
-    "stars": 307,
-    "relevance": 15,
-    "license_group": "review required",
-    "review_required": true
-  },
-  {
-    "repo": "collbroGTR/comfyui-scail2-infinity",
-    "sources": [
-      "csv"
-    ],
-    "stage": "metadata",
-    "level": 0,
-    "tags": [
-      "media"
-    ],
-    "license": "GPL-3.0",
-    "description": "A single all-in-one ComfyUI node — **SCAIL-2 Infinity (auto window)** — that turns the core `WanSCAILToVideo` chunked workflow into one node that generates **arbitrarily long** SCAIL-2 video automatically.",
-    "language": "Python",
-    "archived": false,
-    "pushed_at": "2026-06-16T16:57:34Z",
-    "stars": 50,
-    "relevance": 15,
-    "license_group": "review required",
+    "pushed_at": "2026-11-19T04:22:27Z",
+    "stars": 929,
+    "relevance": 25,
+    "license_group": "permissive candidate",
     "review_required": true
   }
 ]
