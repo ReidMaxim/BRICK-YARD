@@ -1,10 +1,38 @@
 [
   {
+    "repo": "0voice/EmbeddedSoftwareLearn",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "0x00ctrl/CyberSec-Books",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "0x0funky/audioghost-ai",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "0x1a6c1a9y/focus-clock",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "0xFA11/MultiplayerNetworkingResources",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
     ]
   },
   {
@@ -29,10 +57,59 @@
     ]
   },
   {
+    "repo": "2Retr0/GodotOceanWaves",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "2shady4u/godot-sqlite",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "4thfever/cultivation-world-simulator",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "5235aa-web/pebble_companionchat",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "6abd/horus",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "7onez/cti-expert",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "a-little-org-called-mario/a-little-game-called-mario",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
     ]
   },
   {
@@ -44,11 +121,39 @@
     ]
   },
   {
+    "repo": "a1studmuffin/SpaceshipGenerator",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "aachman98/Sorcar",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "AaronSoria/PAnalizer",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
     "repo": "aarush-io/melo",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "abarichello/godot-ci",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
     ]
   },
   {
@@ -59,10 +164,143 @@
     ]
   },
   {
+    "repo": "acados/acados",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "AccumulateMore/CV",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "acoustid/chromaprint",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "activeloopai/deeplake",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "Adam-CAD/CADAM",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "adbar/htmldate",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "AddictedCS/soundfingerprinting",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "adobe-research/DeepAFx-ST",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "adrianlois/DFIR-Detection-Engineering",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "advimman/lama",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "aetaric/checkrr",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "aff4/pyaff4",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "AgentTorch/AgentTorch",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "agenty/shortener",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "AhmadHassan-BTed/AhSilence",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "AhmadHassan-BTed/NaSuno-SongHumanizer",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "ai-winter/ros_motion_planning",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "ailia-ai/ailia-models",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "aipoch/open-science",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "akhil-dara/sqlite-gui-analyzer",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -80,11 +318,32 @@
     ]
   },
   {
+    "repo": "alandefreitas/matplotplusplus",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "aleff-github/onion-routing-anatomy",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "alelievr/Mixture",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "alelievr/Procedural-Worlds-Editor",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
     ]
   },
   {
@@ -95,10 +354,66 @@
     ]
   },
   {
+    "repo": "AlexeyBond/godot-constraint-solving",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "AlexeyPechnikov/pygmtsar",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "alexgreensh/anidoodle",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "alexturkey/videoturko",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "alfredbaudisch/Godello",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "alibaba/AliOS-Things",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "alibaba/unified-audio",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "alibaba/zvec",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "alicevision/Meshroom",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
     ]
   },
   {
@@ -109,11 +424,67 @@
     ]
   },
   {
+    "repo": "allenai/procthor",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "alnitak/flutter_soloud",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "amd/skills",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "AMReX-Codes/amrex",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "amusi/AI-Job-Notes",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "amusi/awesome-object-detection",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "amusi/CVPR2026-Papers-with-Code",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "amusi/daily-paper-computer-vision",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "amusi/Deep-Learning-Interview-Book",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
     ]
   },
   {
@@ -155,6 +526,146 @@
     ]
   },
   {
+    "repo": "antvis/L7",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "apache/calcite",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "apache/nuttx",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "apache/ofbiz-framework",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "apache/sedona",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "AppliedIR/Valhuntir",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "appsinacup/godot-rapier-physics",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "AprilRobotics/apriltag",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "ArashPartow/exprtk",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "arceuzvx/Cybersecurity_resources",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "ardera/flutter-pi",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "ARISE-Initiative/robosuite",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "Ark2000/PankuConsole",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "armink/EasyFlash",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "armink/FlashDB",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "ARMmbed/DAPLink",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "Arnklit/Waterways",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "arrayfire/arrayfire",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "arthur-e/Wicket",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
     "repo": "arthurzengg/opencui",
     "level": 0,
     "sources": [
@@ -169,6 +680,112 @@
     ]
   },
   {
+    "repo": "arvkevi/kneed",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "ashemery/LinuxForensics",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "asiamina/A-Course-on-Digital-Forensics",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "AsPJT/DungeonTemplateLibrary",
+    "level": 0,
+    "sources": [
+      "github-topic:godot",
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "assafkip/investigators-copilot",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "AtlasFO/Atlas-Community",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "atomvm/AtomVM",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "AtsushiSakai/PythonRobotics",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "Auburn/FastNoise2",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "Auburn/FastNoiseLite",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "AuburnSounds/Dplug",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "audiamus/AaxAudioConverter",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "auto-differentiation/xad",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "autogluon/autogluon",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
     "repo": "automl/tempopfn",
     "level": 0,
     "sources": [
@@ -177,10 +794,38 @@
     ]
   },
   {
+    "repo": "avaneev/r8brain-free-src",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "avatarmanz/victory-7900xtx",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "AvillaDaniel/AvillaForensics",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "Axect/Peroxide",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "axeldelafosse/stemgen",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
     ]
   },
   {
@@ -198,10 +843,59 @@
     ]
   },
   {
+    "repo": "azavea/raster-vision",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "Azgaar/Armoria",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "Azgaar/Fantasy-Map-Generator",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "bblanchon/ArduinoJson",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
     "repo": "be2rlab/accord",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "BehaviorTree/BehaviorTree.CPP",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "Beliavsky/Fortran-code-on-GitHub",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "Belluxx/Aleph",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
     ]
   },
   {
@@ -212,10 +906,150 @@
     ]
   },
   {
+    "repo": "BenPyton/ProceduralDungeon",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "bharathgs/Awesome-pytorch-list",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "bilawalsidhu/gods-eye-view",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "BillyDM/awesome-audio-dsp",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "Bingeljell/image-to-3dlab",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "bitbrain/beehave",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "bitbrain/pandora",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "bitfieldaudio/OTTO",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "bitgapp/eqMac",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "bitwes/Gut",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "blinker-iot/blinker-library",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "blinker-iot/blinker-py",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "blitzpp/blitz",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "Blynk-Technologies/blynk-library",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "BMClab/BMC",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "BOINC/boinc",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "BootLoops-ai/bootloops",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "borglab/gtsam",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "borndotcom/react-native-godot",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
     "repo": "botharness/deepseekbot",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "boxlite-ai/boxlite",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
     ]
   },
   {
@@ -240,10 +1074,87 @@
     ]
   },
   {
+    "repo": "breizhn/DTLN",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "brorlandi/miscale-dashboard",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "brunnojob/revscope",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "bshoshany/thread-pool",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "bulletphysics/bullet3",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "bungee-audio-stretch/bungee",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "buserror/simavr",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "busyyang/python_sound_open",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "bytedance/SALMONN",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "bytedeco/javacv",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "ByteYellow/AgentProvenance",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "c2g-dev/city2graph",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
     ]
   },
   {
@@ -254,10 +1165,73 @@
     ]
   },
   {
+    "repo": "calebevans/mulder",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "Calinou/awesome-godot",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "CANopenNode/CANopenNode",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "caosdoar/spheres",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "cardputerzero/template",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "carla-simulator/carla",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "Carleslc/AudioToText",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "cartographer-project/cartographer",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "casadi/casadi",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "casework/CASE",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -268,6 +1242,69 @@
     ]
   },
   {
+    "repo": "cesanta/elk",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "cesanta/mjs",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "cesanta/mongoose",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "CesiumGS/3d-tiles",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "CesiumGS/cesium",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "CesiumGS/cesium-unreal",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "cgohlke/geospatial-wheels",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "cgzirim/seek-tune",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "chapel-lang/chapel",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "charlesdove977/claude-x-jev",
     "level": 0,
     "sources": [
@@ -275,10 +1312,24 @@
     ]
   },
   {
+    "repo": "chaseleantj/deskworlds",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "chatandbuild/conjectures",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "chengmarc/minecraft-citygen",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
     ]
   },
   {
@@ -303,10 +1354,59 @@
     ]
   },
   {
+    "repo": "chrieke/awesome-geospatial-companies",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "chrisvoncsefalvay/learn-julia-the-hard-way",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "chszlab/agenticalgorithmengineering",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "chvmp/champ",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "CIRCL/forensic-tools",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "cleanflight/cleanflight",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "ClemensElflein/OpenMower",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
     ]
   },
   {
@@ -317,10 +1417,59 @@
     ]
   },
   {
+    "repo": "clovaai/donut",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "cloveric/claude-drawing-skill",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "CMU-Perceptual-Computing-Lab/openpose",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "Coding-Solo/godot-mcp",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "cogciprocate/ocl",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "collbrogtr/comfyui-scail2-infinity",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "colmap/colmap",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "commaai/openpilot",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
     ]
   },
   {
@@ -332,10 +1481,94 @@
     ]
   },
   {
+    "repo": "conradsnicta/armadillo-code",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "Correia-jpv/fucking-awesome-incident-response",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "Cosmo/OpenSwiftUI",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "cpmech/gosl",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "CraterCrash/godot-orchestrator",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
     "repo": "crypt0p3g/pass-the-device",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "crystal-bit/godot-game-template",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "CubicZebra/informatics",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "cugu/awesome-forensics",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "cutterbl/SoundTouchJS",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "cvat-ai/cvat",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "CVHub520/X-AnyLabeling",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "cyb3rmik3/MDE-DFIR-Resources",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -346,10 +1579,66 @@
     ]
   },
   {
+    "repo": "cyberbotics/webots",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "cycfi/q",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "d2l-ai/d2l-en",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "d2l-ai/d2l-zh",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "danilogcrf2-oss/ESP32Synth",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "Dannark/BWO",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "danwahlin/agent-buddy",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "darkquasar/AzureHunter",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "databendlabs/databend",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
     ]
   },
   {
@@ -360,6 +1649,20 @@
     ]
   },
   {
+    "repo": "datoviz/datoviz",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "davidsandberg/facenet",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
     "repo": "davidtemkin/declarelang",
     "level": 0,
     "sources": [
@@ -367,10 +1670,130 @@
     ]
   },
   {
+    "repo": "davisking/dlib",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "db0/godot-card-game-framework",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "DBraun/DawDreamer",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "ddemidov/amgcl",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "ddemidov/vexcl",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "dealii/dealii",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "deepcharles/ruptures",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "deepVector/geospatial-machine-learning",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "deezer/spleeter",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "Developer-Y/cs-video-courses",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision",
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "developmentseed/lonboard",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
     "repo": "devesh-shirsath/spotkit",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "dexmal/dexbotic",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "dexmal/opendm",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "dfeneyrou/palanteer",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "dfir-iris/iris-web",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "DFIRKuiper/Kuiper",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "dfirtrack/dfirtrack",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -389,6 +1812,118 @@
     ]
   },
   {
+    "repo": "dhconnelly/rtreego",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "dialogic-godot/dialogic",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "digitalisx/awesome-memory-forensics",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "diodiogod/TTS-Audio-Suite",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "dittofeed/dittofeed",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "DIYer22/boxx",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "DLR-RM/rl-baselines3-zoo",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "DLR-RM/stable-baselines3",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "DmitriySalnikov/godot_debug_draw_3d",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "dmlc/gluon-cv",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "Doble-2/osint-d2",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "domlysz/BlenderGIS",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "don-tnowe/godot-resources-as-sheets-plugin",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "Donchitos/Claude-Code-Game-Studios",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "dora-rs/dora",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "dorianborian/sesame-robot",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
     "repo": "doubleghosty/cool_fox",
     "level": 0,
     "sources": [
@@ -397,10 +1932,31 @@
     ]
   },
   {
+    "repo": "dpilger26/NumCpp",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "dragen1860/TensorFlow-2.x-Tutorials",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
     "repo": "dravenalg/embo-harness",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "dswah/pyGAM",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
     ]
   },
   {
@@ -418,10 +1974,69 @@
     ]
   },
   {
+    "repo": "dusty-nv/jetson-inference",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision",
+      "github-topic:embedded",
+      "github-topic:robotics"
+    ]
+  },
+  {
     "repo": "dwim-sh/dwim",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "e-sensing/sits",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "E3SM-Project/E3SM",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "eclipse-paho/paho.mqtt.embedded-c",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "eclipse-threadx/threadx",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "eclipse-zenoh/zenoh",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded",
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "edbeeching/godot_rl_agents",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
     ]
   },
   {
@@ -432,10 +2047,73 @@
     ]
   },
   {
+    "repo": "EL4CTEO/blender-skills",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
     "repo": "el4cteo/shrink-anything",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "eli-labz/Third-Eye",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "elringus/sprite-dicing",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "eltonlaw/impyute",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "emalderson/ThePhish",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "embassy-rs/embassy",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "embox/embox",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "EmulationAI/awesome-large-audio-models",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "enactic/openarm",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
     ]
   },
   {
@@ -447,11 +2125,102 @@
     ]
   },
   {
+    "repo": "EnzymeAD/Enzyme",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "eProsima/Fast-DDS",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "Erkaman/wireframe-world",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "es-ine/mcp",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "esimov/caire",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "esp-rs/esp-hal",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "EtienneAb3d/WhisperHallu",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "ETLCPP/etl",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "eugeneyan/applied-ml",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "EutropicAI/Final2x",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "EveningStudy/asmr-dubber",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "evild3ad/Get-MiniTimeline",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "exadel-inc/CompreFace",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "extreme-assistant/CVPR2024-Paper-Code-Interpretation",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
     ]
   },
   {
@@ -463,11 +2232,81 @@
     ]
   },
   {
+    "repo": "f90/Wave-U-Net",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "fabiogra/moseca",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "facebookresearch/habitat-lab",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "facebookresearch/map-anything",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "faiface/beep",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "FastLED/FastLED",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "fastverse/collapse",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "fatiando/verde",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "fegennari/3DWorld",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "ferretgeek/prokbot-plus",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "fgnt/nara_wpe",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
     ]
   },
   {
@@ -486,10 +2325,52 @@
     ]
   },
   {
+    "repo": "fkie-cad/awesome-embedded-and-iot-security",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "FlipForensics/AIFT",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "focus-creative-games/luban",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "foxssake/netfox",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
     "repo": "fpndev/wpods",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "francescopace/espectre",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "frangelbarrera/osint-agent-skills",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -500,10 +2381,31 @@
     ]
   },
   {
+    "repo": "friggog/tree-gen",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "fubark/cyber",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
     "repo": "fudan-generative-vision/remory",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "fumiama/Retrieval-based-Voice-Conversion-WebUI",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
     ]
   },
   {
@@ -528,10 +2430,242 @@
     ]
   },
   {
+    "repo": "Gadzhovski/TRACE-Forensic-Toolkit",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "gaea-godot/gaea",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "GauravBh1010tt/DeepLearn",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "gauravk95/audio-visualizer-android",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "gboeing/osmnx",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "gdquest-demos/godot-2d-space-game",
+    "level": 0,
+    "sources": [
+      "github-topic:godot",
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "gdquest-demos/godot-4-3d-third-person-controller",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "gdquest-demos/godot-4-procedural-generation",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "gdquest-demos/godot-make-pro-2d-games",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "gdquest-demos/godot-open-rpg",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "gdquest-demos/godot-visual-effects",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "GDQuest/godot-steering-ai-framework",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "GDQuest/learn-gdscript",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "Geant4/geant4",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "gee-community/geemap",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "gee-community/geetools",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "gem/oq-engine",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "genaray/Arch",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "GenericMappingTools/gmt",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "genex-games/genex-desktop",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "geocompx/geocompr",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "geopandas/geopandas",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "geopython/pygeoapi",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "georust/geo",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "GeoStat-Framework/GSTools",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "GEOSwift/GEOSwift",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "geotools/geotools",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
     "repo": "getpaseo/paseo-relay",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "ghaerr/elks",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "ghua-ac/ENF-WHU-Dataset",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "giswqs/earthengine-py-notebooks",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "giswqs/intro-gispro",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "git-learning-game/oh-my-git",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
     ]
   },
   {
@@ -542,10 +2676,151 @@
     ]
   },
   {
+    "repo": "gkonovalov/android-vad",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "gl0bal01/intel-codex",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "gmagklaras/POFR",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
     "repo": "godcreatebugs/raytrace-cli",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "godot-extended-libraries/godot-next",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "godot-extended-libraries/godot-realistic-water",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "godot-fun/godot-start",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "godot-jolt/godot-jolt",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "godot-rust/gdext",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "godotengine/godot",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "godotengine/godot-docs",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "godotengine/godot-git-plugin",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "godotjs/javascript",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "gokayfem/shader-skills",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "gonum/gonum",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "google-ai-edge/mediapipe",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing",
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "google-deepmind/mujoco_menagerie",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "google-deepmind/tapnet",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "google/brax",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "google/OpenSK",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
     ]
   },
   {
@@ -557,11 +2832,53 @@
     ]
   },
   {
+    "repo": "goplus/xgo",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "goxr3plus/XR3Player",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "grailbio/reflow",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "grapedjuice/ytm-rs",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "graphdeco-inria/gaussian-splatting",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "graphhopper/graphhopper",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "GraphiteEditor/Graphite",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
     ]
   },
   {
@@ -572,10 +2889,31 @@
     ]
   },
   {
+    "repo": "GuitarML/SmartGuitarAmp",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "GyanD/codexffmpeg",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "hacanale/kestryl",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "haifengl/smile",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
     ]
   },
   {
@@ -594,6 +2932,20 @@
     ]
   },
   {
+    "repo": "harelsegev/INDXRipper",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "harvard-edge/cs249r_book",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
     "repo": "hatchet-dev/brickie",
     "level": 0,
     "sources": [
@@ -601,10 +2953,95 @@
     ]
   },
   {
+    "repo": "hathach/tinyusb",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "HCPLab-SYSU/Embodied_AI_Paper_List",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "headwaymaps/headway",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "Hedgehog-Computing/hedgehog-lab",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "hehehai/audiosmith",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "hi-godot/godot-ai",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "Hironsan/BossSensor",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "hrvach/deskhop",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "htdt/godogen",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "huangjunsen0406/py-xiaozhi",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "huggingface/datasets",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision",
+      "github-topic:robotics"
     ]
   },
   {
@@ -616,11 +3053,53 @@
     ]
   },
   {
+    "repo": "humangeo/leaflet-dvf",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "HumanSignal/label-studio",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
     "repo": "hustvl/molt",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "hybridgroup/cylon",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "hybridgroup/gobot",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "hybridgroup/gocv",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "hyperknot/openfreemap",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
     ]
   },
   {
@@ -631,10 +3110,101 @@
     ]
   },
   {
+    "repo": "hzwer/ECCV2022-RIFE",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "ianthehenry/bauble",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "IceCreamYou/THREE.Terrain",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "ictnlp/StreamSpeech",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "idea4good/GuiLite",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "idealo/imagededup",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "iDoka/awesome-canbus",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "img2threejs/img2threejs",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "inducer/loopy",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "inducer/meshpy",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "inducer/pycuda",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "inducer/pyopencl",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "infermatrixlab/vllm-rlt",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "InfiniTimeOrg/InfiniTime",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
     ]
   },
   {
@@ -650,6 +3220,41 @@
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "InsightSoftwareConsortium/ITK",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "InsightSoftwareConsortium/itkwidgets",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "instruktlabs/kiln",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "introlab/rtabmap",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
     ]
   },
   {
@@ -675,11 +3280,67 @@
     ]
   },
   {
+    "repo": "iohao/ioGame",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "itamarst/eliot",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "ivbeg/awesome-forensicstools",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
     "repo": "iximiuz/pathviz",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "jacobbogers/libRmath.js",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "jacobgil/pytorch-grad-cam",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "jaechang-hits/SciAgent-Skills",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "jame581/GodotPrompter",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
     ]
   },
   {
@@ -691,6 +3352,35 @@
     ]
   },
   {
+    "repo": "jason718/awesome-self-supervised-learning",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision",
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "jasonwebb/morphogenesis-resources",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "Jaysmito101/TerraForge3D",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "jblindsay/whitebox-tools",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
     "repo": "jdirr/morphogen",
     "level": 0,
     "sources": [
@@ -699,10 +3389,31 @@
     ]
   },
   {
+    "repo": "JekSun97/gdTree3D",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "jetty/jetty.project",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
     "repo": "jimjamzola/rh-alpoge-reconstruction",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "jingweizhanghuai/Morn",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
     ]
   },
   {
@@ -714,10 +3425,157 @@
     ]
   },
   {
+    "repo": "jobiryasir/darkweb-data-breach-osint",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "jobtalle/Koi",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "joewdavies/awesome-frontend-gis",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "jokenox/Goopt",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "jongallant/DungeonGenerator",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "jongallant/WorldGeneratorFinal",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "josephernest/SamplerBox",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "joshwcomeau/button-sounds",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "jslee02/awesome-robotics-libraries",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "JuDFTteam/best-of-atomistic-machine-learning",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "JuliaEarth/GeoStats.jl",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "julius-speech/julius",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "junyanz/CycleGAN",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "junyanz/pytorch-CycleGAN-and-pix2pix",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "jupyterj0nes/masstin",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "justinsalamon/scaper",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "jwagner/simplex-noise.js",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "K-Dense-AI/k-dense-byok",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "kaaproject/kaa",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "kajisho5/ffmpeg-skill",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "kalink0/crush-forensics",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -737,11 +3595,102 @@
     ]
   },
   {
+    "repo": "karim852/Kage-DFIR-toolkit",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "kchapelier/procedural-generation",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "kchapelier/wavefunctioncollapse",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "kd8bny/LiMEaide",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "keplergl/kepler.gl",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "Kevin-Liu-01/Claude-of-Tanks",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "KevinMusgrave/pytorch-metric-learning",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "kevinraymond/florilegium",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "kevintngo/cinderwatch",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "kfrlib/kfr",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "kiloreux/awesome-robotics",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "KingKongRobotics/jumper",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "KinWaiCheuk/nnAudio",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "kmario23/deep-learning-drizzle",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
     ]
   },
   {
@@ -753,10 +3702,102 @@
     ]
   },
   {
+    "repo": "KoBeWi/Metroidvania-System",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "koharu-rs/koharu",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "koopjs/koop",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "koordinates/kart",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "kornia/kornia",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision",
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "krychu/wfc",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "KsanaDock/Microverse",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "kurtdekker/makegeo",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "kvos/CoastSat",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
     "repo": "kyutai-labs/aura",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "lagmoellertim/unsilence",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "Lake1059/FFmpegFreeUI",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "lampe-games/godot-open-rts",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "lance-format/lance",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
     ]
   },
   {
@@ -774,10 +3815,80 @@
     ]
   },
   {
+    "repo": "Layout-Parser/layout-parser",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "Lazza/Fuji",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
     "repo": "ldjx7/multi-agent-account-manager",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "learnsyslab/gym-pybullet-drones",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "LeCAR-Lab/ASAP",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "lecopivo/SciLean",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "LedFx/LedFx",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "ledlight33/periodic-table-of-dfir",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "LETHAL-FORENSICS/Collect-MemoryDump",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "LETHAL-FORENSICS/macos-collector",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "LETHAL-FORENSICS/MemProcFS-Analyzer",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -788,6 +3899,48 @@
     ]
   },
   {
+    "repo": "letoram/arcan",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "lettier/3d-game-shaders-for-beginners",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "liangxiegame/QFramework",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "libAudioFlux/audioFlux",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "LibreELEC/LibreELEC.tv",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "lightly-ai/lightly",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
     "repo": "lijinzhao30/alive",
     "level": 0,
     "sources": [
@@ -795,10 +3948,73 @@
     ]
   },
   {
+    "repo": "LingDong-/fishdraw",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "LingDong-/ndwfc",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "LingDong-/nonflowers",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "LingDong-/shan-shui-inf",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "littlefs-project/littlefs",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "liuruoze/EasyPR",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
     "repo": "lllyasviel/vcc",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "llnl/sundials",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "lmarzen/esp32-weather-epd",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "LMD0311/Awesome-World-Model",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
     ]
   },
   {
@@ -831,10 +4047,52 @@
     ]
   },
   {
+    "repo": "louis-e/arnis",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "LovelyTeams/LovelyCarve",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "LSXPrime/SoundFlow",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "lucas-pospor/cairn",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "lucidrains/vit-pytorch",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "ludlows/PESQ",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "ludwig-ai/ludwig",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
     ]
   },
   {
@@ -853,10 +4111,150 @@
     ]
   },
   {
+    "repo": "lw8192/Red-Team-Rising",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "Ly0n/awesome-robotic-tooling",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "M-Fatah/texture_maker",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "m3y54m/Embedded-Engineering-Roadmap",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "Maaack/Godot-Game-Template",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "MaaAssistantArknights/MaaAssistantArknights",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "mani-skill/ManiSkill",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "mantisfury/ArkhamMirror",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "maplibre/maputnik",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "MapServer/MapServer",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "Mapsui/Mapsui",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "Maran23/script-ide",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "marc-shade/world-intel-mcp",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "MarcoFazioRandom/Virtual-Joystick-Godot",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "marcogdepinto/emotion-classification-from-audio-files",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "MarkFzp/act-plus-plus",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "MarkFzp/mobile-aloha",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "maroba/findiff",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "masonmosen/muse-video-prompt-skill",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "math-fehr/fast-wfc",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "mathworks/MATLAB-Simulink-Challenge-Project-Hub",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
     ]
   },
   {
@@ -874,10 +4272,31 @@
     ]
   },
   {
+    "repo": "matmadness/HumanShaders",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "MattParkerDev/SharpIDE",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
     "repo": "mattpocock/cookout",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "maxilevi/project-skylines",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
     ]
   },
   {
@@ -888,10 +4307,150 @@
     ]
   },
   {
+    "repo": "mayHamad/MemTracer",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "memvid/memvid",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "MengTo/sylva",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "mesquidar/ForensicsTools",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "meteoinfo/MeteoInfo",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "mevdschee/php-crud-api",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "MewPurPur/GodSVG",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "mf1d3l/Splunk4DFIR",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "mfem/mfem",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "MFlowCode/MFC",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "MichaelGrupp/evo",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "micropython/micropython",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "microsoft/AI-For-Beginners",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "microsoft/AirSim",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "microsoft/farmvibes-ai",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
     "repo": "microsoft/microsoft-sql",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "midas-research/audino",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "mikeroyal/Digital-Forensics-Guide",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "mikeroyal/Photogrammetry-Guide",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "mikeroyal/PipeWire-Guide",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "mikeroyal/Unreal-Engine-Guide",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
     ]
   },
   {
@@ -902,10 +4461,80 @@
     ]
   },
   {
+    "repo": "mirror-engine/the-mirror",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "MIT-SPARK/Kimera",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "MIT-SPARK/TEASER-plusplus",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "MITDeepLearning/introtodeeplearning",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "mithi/robotics-coursework",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "MK-Ware/Forensic-Tools",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "mlfoundations/open_clip",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "mlpack/mlpack",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "mltframework/mlt",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "mnemoverse/awesome-agent-memory",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "mod-audio/mod-desktop",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
     ]
   },
   {
@@ -923,6 +4552,20 @@
     ]
   },
   {
+    "repo": "monocasual/giada",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "moonD4rk/HackBrowserData",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
     "repo": "motionvideohq/motionvideo.xyz",
     "level": 0,
     "sources": [
@@ -937,10 +4580,108 @@
     ]
   },
   {
+    "repo": "mpaland/printf",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "mravanelli/SincNet",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "MrEliptik/godot_experiments",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "MrM8BRH/SuperLibrary",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "MrMugiwara/FTK-imager-OSX",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "MRPT/mrpt",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "mszell/geospatialdatascience",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "mtwoodard/TextureGenerator",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "mumax/3",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "muskie82/MonoGS",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
     "repo": "mustafanatur/blueprint",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "mxgmn/ConvChain",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "mxgmn/MarkovJunior",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "mxgmn/TextureSynthesis",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "mxgmn/WaveFunctionCollapse",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
     ]
   },
   {
@@ -951,10 +4692,101 @@
     ]
   },
   {
+    "repo": "NaiboWang/EasySpider",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "NASA-AMMOS/3DTilesRendererJS",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "nasa-jpl/open-source-rover",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "nasa/fprime",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "NASAWorldWind/WebWorldWind",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "NASAWorldWind/WorldWindJava",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "nathanhoad/godot_dialogue_manager",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "nathanhoad/godot_input_helper",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
     "repo": "nemy-new/expressive-weather",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "nerfstudio-project/nerfstudio",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "nerves-project/nerves",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "NeuroDiffGym/neurodiffeq",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "newton-physics/newton",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
     ]
   },
   {
@@ -966,10 +4798,73 @@
     ]
   },
   {
+    "repo": "Neywa-Labs/mlx-audio",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "nezvers/Godot-GameTemplate",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "nhivp/Awesome-Embedded",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
     "repo": "nickvido/us-code",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "njbrown/texturelab",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "nobodywho-ooo/nobodywho",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "noncomputable/AgentMaps",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "nonunknown/godot-powerful",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "NPCmillionaire/unredact.tools",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "nschloe/awesome-scientific-computing",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
     ]
   },
   {
@@ -980,10 +4875,129 @@
     ]
   },
   {
+    "repo": "NVIDIA/DALI",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "NVIDIA/DeepLearningExamples",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "NVIDIA/pix2pixHD",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "NVIDIA/skills",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "NVlabs/instant-ngp",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "NVlabs/LongLive",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "NVlabs/Sana",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "ob-f/OpenBot",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "objectbox/objectbox-java",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "Octoday-Hub/Embodied-AI",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "OFA-Sys/Chinese-CLIP",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
     "repo": "ofintech/ofintech-dask",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "Oldcircle/geo-sleuth",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "omeryusufyagci/fast-music-remover",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "ompl/ompl",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "OndrejNepozitek/Edgar-DotNet",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "OndrejNepozitek/Edgar-Unity",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "onlytailei/CppRobotics",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
     ]
   },
   {
@@ -1008,10 +5022,178 @@
     ]
   },
   {
+    "repo": "open-mmlab/FoleyCrafter",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "open-mmlab/mmagic",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "OpenChemistry/avogadrolibs",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "opencodewin/MediaEditor",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "opencog/opencog",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "opencv/opencv",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "opendatacube/datacube-core",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "openframeworks/openFrameworks",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "opengeos/Awesome-GEE",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "opengeos/GeoAgent",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "opengeos/geoai",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "opengeos/GeoLibre",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "opengeos/geospatial-data-catalogs",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "opengeos/leafmap",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "opengeos/python-geospatial",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "opengeos/RustGIS",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "opengeos/segment-geospatial",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "opengeos/streamlit-geospatial",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "opengeospatial/geoparquet",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "openglobus/openglobus",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "OpenHelix-Team/VLA-Adapter",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "openhpc/ohpc",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "openminis/openminis",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "openMVG/openMVG",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "OpenSC2K/OpenSC2K",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
     ]
   },
   {
@@ -1030,11 +5212,194 @@
     ]
   },
   {
+    "repo": "OpenShot/libopenshot-audio",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "openthread/openthread",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "openvinotoolkit/openvino",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "optiland/optiland",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "Orama-Interactive/Pixelorama",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "OSGeo/grass",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "ostafen/digler",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "OSWatcher/oswatcher",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "ottolink-dev/Hesiod",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "owlbarn/owl",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "ozguradmin/ahenk-turkish-tts",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "pablogila/TileMapDual",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "PacktPublishing/Digital-Forensics-with-Kali-Linux",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "PaddlePaddle/models",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "PaddlePaddle/Paddle-Lite",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "paperswithcode/ai-deadlines",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision",
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "Parisson/TimeSide",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "passivestar/godot-minimal-theme",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "pathsim/pathsim",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "paulmach/orb",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "paulveillard/cybersecurity-forensics",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "PCGEx/PCGExtendedToolkit",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "pdebench/PDEBench",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "pellepl/spiffs",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "Perkins-Fund/Malware-Bible",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "peter-kish/gloot",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "petercorke/robotics-toolbox-python",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
     ]
   },
   {
@@ -1046,11 +5411,95 @@
     ]
   },
   {
+    "repo": "PeterL1n/BackgroundMattingV2",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "PeterL1n/RobustVideoMatting",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "PetoiCamp/OpenCat-Quadruped-Robot",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "pharmai/plip",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "phil-haderer/pxc",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "phillipi/pix2pix",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "PhiloLabs/fable51-worlds",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "pikasTech/PikaPython",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "pioneerspacesim/pioneer",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "PixelGuys/Cubyz",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "PixiEditor/PixiEditor",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "pkdawson/imgui-godot",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "placemark/placemark",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
     ]
   },
   {
@@ -1065,6 +5514,77 @@
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "platformio/platformio-core",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "platformio/platformio-vscode-ide",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "pliang279/awesome-multimodal-ml",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision",
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "PMEAL/OpenPNM",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "Pnwcomputers/ULTIMATE-CYBERSECURITY-MASTER-GUIDE",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "PointCloudLibrary/pcl",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "pola-rs/geopolars",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "polygonjs/polygonjs",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "postgis/postgis",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "PRBonn/kiss-icp",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
     ]
   },
   {
@@ -1083,6 +5603,27 @@
     ]
   },
   {
+    "repo": "proj4js/proj4js",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "projectchrono/chrono",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "ProjectPhysX/FluidX3D",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "promethendev/wwe13-recomp",
     "level": 0,
     "sources": [
@@ -1097,6 +5638,20 @@
     ]
   },
   {
+    "repo": "Psmths/windows-forensic-artifacts",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "puffyCid/artemis",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
     "repo": "puritysb/agentdeck",
     "level": 0,
     "sources": [
@@ -1105,10 +5660,101 @@
     ]
   },
   {
+    "repo": "pyocd/pyOCD",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "pypr/pysph",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "pyproj4/pyproj",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "pytorch/audio",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "pytorch/executorch",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "pytorch/rl",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "pytorch/vision",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "QodotPlugin/qodot-plugin",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "Quaint-Studios/Reia",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "QuantumLeaps/modern-embedded-programming-course",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "QuantumLeaps/qpc",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "qubvel-org/segmentation_models.pytorch",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
     "repo": "queen-project/queen",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "questdb/questdb",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
     ]
   },
   {
@@ -1126,11 +5772,144 @@
     ]
   },
   {
+    "repo": "R3gm/SoniTranslate",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "r44vc0rp/dashsplat",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "rakyll/go-hardware",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "ramaureirac/godot-tactical-rpg",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "ramokz/phantom-camera",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "randyzwitch/streamlit-folium",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "RareSense/Nova3D",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "raysan5/raylib",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "Razaekel/noise-rs",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "real-stanford/diffusion_policy",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "RealityNet/hotoloti",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "RealityNet/ios_triage",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "RealityNet/kobackupdec",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "RealityNet/teleparser",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "realsenseai/librealsense",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "realstrawhat/csakura",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "redblobgames/mapgen2",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "redblobgames/mapgen4",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "RediSearch/RediSearch",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "Redot-Engine/redot-engine",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
     ]
   },
   {
@@ -1142,10 +5921,32 @@
     ]
   },
   {
+    "repo": "Refloow/Refloow-Geo-Forensics",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "reinterpretcat/utymap",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "remorses/sigillo",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "rerun-io/rerun",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision",
+      "github-topic:robotics"
     ]
   },
   {
@@ -1156,11 +5957,39 @@
     ]
   },
   {
+    "repo": "Revolutionary-Games/Thrive",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "rezaduty/cybersecurity-career-path",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "rhaiscript/rhai",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
     "repo": "richarvey/omnimem",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "RightNow-AI/picolm",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
     ]
   },
   {
@@ -1178,10 +6007,157 @@
     ]
   },
   {
+    "repo": "rlguy/FantasyMapGenerator",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "rmk-rs/rmk",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "rmurai0610/MASt3R-SLAM",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "rnchg/APT",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "roboflow/notebooks",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "roboflow/rf-detr",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "roboflow/supervision",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "RobotLocomotion/drake",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "RoboTwin-Platform/RoboTwin",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "RodZill4/material-maker",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "ros-navigation/navigation2",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "rosedblabs/rosedb",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "rossant/awesome-scientific-python",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "rpng/open_vins",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "rspatial/terra",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "ruby-numo/numo-narray",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "rufin-app/rufin",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "rune-rs/rune",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "rust-embedded/awesome-embedded-rust",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "rust-ml/linfa",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "rust-ndarray/ndarray",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
     ]
   },
   {
@@ -1192,10 +6168,45 @@
     ]
   },
   {
+    "repo": "rwaldron/johnny-five",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "ryceg/Eigengrau-s-Essential-Establishment-Generator",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "Rykode/GodotHub",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
     "repo": "s8n/civswitchfs-kaihen",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "sacridini/Awesome-Geospatial",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "samapriya/awesome-gee-community-datasets",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
     ]
   },
   {
@@ -1220,6 +6231,90 @@
     ]
   },
   {
+    "repo": "sbabic/swupdate",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "sbrin/lopaka",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "scallyw4g/bonsai",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "scikit-image/scikit-image",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "scikit-video/scikit-video",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "scilab/scilab",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "scipy/scipy",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "Scony/godot-gdscript-toolkit",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "scopeInfinity/Video2Description",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "scottlawsonbc/audio-reactive-led-strip",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "scraed/LanPaint",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "screenpipe/screenpipe",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
     "repo": "scrolltide/ai-studio-skill",
     "level": 0,
     "sources": [
@@ -1232,6 +6327,27 @@
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "SebLague/Procedural-Planets",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "secuditor/secuditor-lite",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "SecurityRonin/chat4n6",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -1250,10 +6366,171 @@
     ]
   },
   {
+    "repo": "sepinf-inc/IPED",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "Serial-Studio/Serial-Studio",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "setchi/Unity-ShaderSketches",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "sfluor/musig",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "shadow/shadow",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "ShadowBlip/OpenGamepadUI",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "shellhub-io/shellhub",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "shimat/opencvsharp",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "ShusenTang/Dive-into-DL-PyTorch",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "simbody/simbody",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "simpeg/simpeg",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "simsong/tcpflow",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "SirRamEsq/SmartShape2D",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "sk4la/volatility3-docker",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "SkalskiP/courses",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "sloemo01/diorama",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "smartcorelib/smartcore",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "smcameron/space-nerds-in-space",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "SmingHub/Sming",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "smoltcp-rs/smoltcp",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "smu160/PhastFT",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "Softmotions/ejdb",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
     "repo": "softwaiz/gentlemail",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "software-mansion/react-native-audio-api",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
     ]
   },
   {
@@ -1264,10 +6541,38 @@
     ]
   },
   {
+    "repo": "softwareunderground/awesome-open-geoscience",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
     "repo": "sonlovinbot-team/muse-animated-short-film",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "spack/spack",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "speechbrain/speechbrain",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
     ]
   },
   {
@@ -1278,6 +6583,55 @@
     ]
   },
   {
+    "repo": "spieglt/whatfiles",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "spla-tam/SplaTAM",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "spmallick/learnopencv",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "spotify/klio",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "spotify/pedalboard",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "sshuair/awesome-gis",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "stack-of-tasks/pinocchio",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
     "repo": "stage-11-agentics/c11",
     "level": 0,
     "sources": [
@@ -1285,10 +6639,66 @@
     ]
   },
   {
+    "repo": "StarKnightt/jungle-trail",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "starVLA/starVLA",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "stdlib-js/stdlib",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "stdlogits/neuron-lens",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "stemrollerapp/stemroller",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "stlink-org/stlink",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "strasdat/Sophus",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "stuxnet999/MemLabs",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "sudoevolve/EUI-NEO",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
     ]
   },
   {
@@ -1306,6 +6716,27 @@
     ]
   },
   {
+    "repo": "sumeshi/evtx2es",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "sumeshi/forensia",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "svaksha/Julia.jl",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
     "repo": "swarm-ai-research/swarm",
     "level": 0,
     "sources": [
@@ -1317,6 +6748,48 @@
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "symisc/sod",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "symisc/unqlite",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "synthetic-sciences/openscience",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "Syomus/ProceduralToolkit",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "taichi-dev/difftaichi",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "tegridydev/python-OSINT-notebook",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -1341,10 +6814,130 @@
     ]
   },
   {
+    "repo": "thalha-a9/helix",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "thanglequoc/vietnamese-provinces-database",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "TheDuckCow/godot-road-generator",
+    "level": 0,
+    "sources": [
+      "github-topic:godot",
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "TheHive-Project/Cortex",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "TheHive-Project/Cortex-Analyzers",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "TheHive-Project/TheHive4py",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
     "repo": "thilinatlm/nerve",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "thorvg/thorvg",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "threat9/routersploit",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "TianxingChen/Embodied-AI-Guide",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "tidwall/buntdb",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "tidwall/tile38",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "TileDB-Inc/TileDB",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "time4tea/gopro-dashboard-overlay",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "timschneeb/RootlessJamesDSP",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "tio/tio",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "tock/tock",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "Token-Gremlin/natural-disasters",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
     ]
   },
   {
@@ -1356,6 +6949,97 @@
     ]
   },
   {
+    "repo": "TokisanGames/Sky3D",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "TokisanGames/Terrain3D",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "torchgeo/terratorch",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "torchgeo/torchgeo",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "TotallyNotAHaxxer/Red-Rabbit",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "touilleMan/godot-python",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "tracel-ai/burn",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "Tracktion/tracktion_engine",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "TriAxis-Games/RealtimeMeshComponent",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "trilinos/Trilinos",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "tumourlove/monolith",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "Turfjs/turf",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "Tw1ddle/MarkovNameGenerator",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "twlatl/pixelloupe",
     "level": 0,
     "sources": [
@@ -1363,10 +7047,87 @@
     ]
   },
   {
+    "repo": "twpayne/go-geom",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "u-root/u-root",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "uber/h3",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "uber/h3-js",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "uber/h3-py",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "ultralytics/yolov3",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "ultralytics/yolov5",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "umbradev315/ffmpeg-video-audio-converter",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "unbendablestraw/homepod-hospital",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "unknown-horizons/godot-port",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "unosquare/ffmediaelement",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
     ]
   },
   {
@@ -1384,6 +7145,90 @@
     ]
   },
   {
+    "repo": "UseOSINT/Skills",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "usnistgov/fipy",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "uTensor/uTensor",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "utopia-rise/fmod-gdextension",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "utopia-rise/godot-jvm",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "V-Sekai/unidot_importer",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "vadymmarkov/Beethoven",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "vazgriz/DungeonGenerator",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "veeral-patel/incidents",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "Velocidex/c-aff4",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "Velocidex/velociraptor",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "veloren/veloren",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
     "repo": "venky7514/stalker-search",
     "level": 0,
     "sources": [
@@ -1391,10 +7236,94 @@
     ]
   },
   {
+    "repo": "VIDA-NYU/reprozip",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "viniciusgerevini/godot-aseprite-wizard",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "virgili0/Virgilio",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
     "repo": "virtualonno/lain",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "visit-dav/visit",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "vlang/vsl",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "vm32/Digital-Forensics-Script-for-Linux",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "vm32/Linux-Incident-Response",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "vnen/godot-tiled-importer",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "voxel51/fiftyone",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "voxelize/voxelize",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "vylor/rioxarray",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "wang-edward/teensy-juno",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
     ]
   },
   {
@@ -1406,11 +7335,109 @@
     ]
   },
   {
+    "repo": "wasm-micro-runtime/wasm-micro-runtime",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "wasm3/wasm3",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "wbierbower/awesome-physics",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "weigert/SimpleHydrology",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "weigert/territory",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "Whimfoome/godot-FirstPersonStarter",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "Wildhoney/Leaflet.FreeDraw",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "wkentaro/labelme",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "wmayner/pyemd",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "WofWca/jumpcutter",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "workos/cli",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "WyattBlue/auto-editor",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "wyhinton/AwesomeHoudini",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "X-LANCE/SLAM-LLM",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "x011/CryptoFrame",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -1421,10 +7448,59 @@
     ]
   },
   {
+    "repo": "xbpeng/MimicKit",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "xeokit/xeokit-sdk",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "xiaowenxia/embedded-notes",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "Xilinx/Vitis-Tutorials",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
     "repo": "xoxorwr/pw-loudness-eq",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "xr843/insect-world",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "xuebinqin/U-2-Net",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "yampelo/beagle",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
     ]
   },
   {
@@ -1442,6 +7518,13 @@
     ]
   },
   {
+    "repo": "ybayle/awesome-deep-learning-music",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
     "repo": "yebisu0529-ship-it/talk-style-live-translation",
     "level": 0,
     "sources": [
@@ -1456,10 +7539,101 @@
     ]
   },
   {
+    "repo": "yogsec/Digital-Forensics-Tools",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
+    "repo": "yt-project/yt",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "Yuan-ManX/audio-development-tools",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "YuanGongND/ltu",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "YuanGongND/ssast",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "YuanGongND/whisper-at",
+    "level": 0,
+    "sources": [
+      "github-topic:audio-processing"
+    ]
+  },
+  {
+    "repo": "z0m31en7/WhatMail",
+    "level": 0,
+    "sources": [
+      "github-topic:digital-forensics"
+    ]
+  },
+  {
     "repo": "zadescoxp/jev-trades",
     "level": 0,
     "sources": [
       "csv"
+    ]
+  },
+  {
+    "repo": "zalandoresearch/fashion-mnist",
+    "level": 0,
+    "sources": [
+      "github-topic:computer-vision"
+    ]
+  },
+  {
+    "repo": "zauberzeug/nicegui",
+    "level": 0,
+    "sources": [
+      "github-topic:robotics"
+    ]
+  },
+  {
+    "repo": "zcreativelabs/react-simple-maps",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "zfoo-project/zfoo",
+    "level": 0,
+    "sources": [
+      "github-topic:godot"
+    ]
+  },
+  {
+    "repo": "ZigEmbeddedGroup/microzig",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
     ]
   },
   {
@@ -1470,11 +7644,53 @@
     ]
   },
   {
+    "repo": "ZimoLiao/scholaraio",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "zladovan/gorched",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
+    ]
+  },
+  {
+    "repo": "zlgopen/awtk",
+    "level": 0,
+    "sources": [
+      "github-topic:embedded"
+    ]
+  },
+  {
+    "repo": "zornade/visura-api",
+    "level": 0,
+    "sources": [
+      "github-topic:geospatial"
+    ]
+  },
+  {
     "repo": "zortos293/xsemu",
     "level": 0,
     "sources": [
       "csv",
       "rss"
+    ]
+  },
+  {
+    "repo": "zwicker-group/py-pde",
+    "level": 0,
+    "sources": [
+      "github-topic:scientific-computing"
+    ]
+  },
+  {
+    "repo": "ZyFou/ProceduralTerrains",
+    "level": 0,
+    "sources": [
+      "github-topic:procedural-generation"
     ]
   }
 ]

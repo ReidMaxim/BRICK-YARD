@@ -1,0 +1,63 @@
+name: Release snapshot
+on:
+  push:
+    branches: [mission-009-release-consolidation]
+    paths: ['.github/workflows/release-snapshot.yml']
+  pull_request:
+    paths: ['.github/workflows/release-snapshot.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: release-snapshot-009
+  cancel-in-progress: false
+jobs:
+  snapshot:
+    if: github.ref == 'refs/heads/mission-009-release-consolidation' || (github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository && github.head_ref == 'mission-009-release-consolidation')
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: mission-009-release-consolidation
+      - name: Recover exact validated artifacts
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p /tmp/expansion /tmp/evidence
+          gh run download 45971954405 --name expansion-recovery --dir /tmp/expansion
+          gh run download 45971954559 --name inspection-evidence --dir /tmp/evidence
+          cp /tmp/expansion/inventory/*.json inventory/
+          cp /tmp/expansion/docs/warehouse.json docs/
+          cp /tmp/evidence/inspection-evidence.json inventory/
+      - run: python -m unittest discover -s tests -v
+      - run: node tests/combine.cjs
+      - name: Release data assertions
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          read=lambda p:json.loads(Path(p).read_text())
+          rows=read('docs/warehouse.json')
+          report=read('inventory/sorting-report.json')
+          evidence=read('inventory/inspection-evidence.json')
+          assert len(rows)==1105==report['warehouse_unique']
+          assert len({x['repo'].lower() for x in rows})==len(rows)
+          assert all(x['level']==0 for x in rows)
+          assert len(evidence['records'])==10
+          assert sum(len(x['documents']) for x in evidence['records'])==20
+          assert not evidence['errors']
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: release-candidate-009
+          path: |
+            docs/
+            inventory/
+      - name: Persist candidate on release branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add inventory/ docs/warehouse.json
+          git diff --cached --quiet || git commit -m 'Mission 009: persist validated expansion and evidence'
+          git push origin HEAD:refs/heads/mission-009-release-consolidation
