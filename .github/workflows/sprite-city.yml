@@ -1,0 +1,37 @@
+name: Sprite city smoke test
+on:
+  pull_request:
+    paths: ['experiments/sprite-city/**','.github/workflows/sprite-city.yml']
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --check experiments/sprite-city/city.js
+      - run: npm install --no-save --ignore-scripts playwright@1.58.2
+      - run: npx playwright install --with-deps chromium
+      - run: |
+          python3 -m http.server 8765 >/tmp/sprite-http.log 2>&1 &
+          for i in $(seq 1 20); do curl -fsS http://127.0.0.1:8765/experiments/sprite-city/ >/dev/null && break; sleep 1; done
+          node <<'JS'
+          const {chromium}=require('playwright');
+          const assert=require('node:assert/strict');
+          (async()=>{const b=await chromium.launch();try{for(const width of [390,1280]){
+            const p=await b.newPage({viewport:{width,height:844}});const errors=[];p.on('pageerror',e=>errors.push(e.message));
+            await p.goto('http://127.0.0.1:8765/experiments/sprite-city/');
+            await p.getByText('NETWORK 0/3').waitFor();
+            for(const name of ['Harbor exchange','Market relay','Hilltop transmitter'])await p.getByRole('button',{name,exact:true}).click();
+            await p.getByText('NETWORK 3/3').waitFor();
+            await p.getByRole('button',{name:'Rotate view'}).click();
+            await p.getByRole('button',{name:'Reset network'}).click();
+            await p.getByText('NETWORK 0/3').waitFor();
+            assert.equal(await p.locator('canvas').count(),1);
+            assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+            assert.deepEqual(errors,[]);await p.close();console.log(width,'PASS');
+          }}finally{await b.close()}})().catch(e=>{console.error(e);process.exitCode=1});
+          JS
