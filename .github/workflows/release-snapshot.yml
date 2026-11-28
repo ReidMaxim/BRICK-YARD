@@ -3,6 +3,8 @@ on:
   push:
     branches: [mission-009-release-consolidation]
     paths: ['.github/workflows/release-snapshot.yml']
+  pull_request:
+    paths: ['.github/workflows/release-snapshot.yml']
   workflow_dispatch:
 permissions:
   contents: write
@@ -12,10 +14,12 @@ concurrency:
   cancel-in-progress: false
 jobs:
   snapshot:
-    if: github.ref == 'refs/heads/mission-009-release-consolidation'
+    if: github.ref == 'refs/heads/mission-009-release-consolidation' || (github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository && github.head_ref == 'mission-009-release-consolidation')
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: mission-009-release-consolidation
       - name: Recover exact validated artifacts
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
